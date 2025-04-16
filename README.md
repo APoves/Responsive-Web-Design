@@ -25,7 +25,7 @@ El fin de dicha certificación, es obtener, de manera interactiva, el conocimien
 | 06 Rothko Paint |[📂](https://github.com/APoves/Repo/tree/main/06%20Rothko%20Paint)| Reproducción de un cuadro de Mark Rothko con CSS |
 | 07 CSS Flexbox Photo Gallery |[📂](https://github.com/APoves/Repo/tree/main/07%20CSS%20Flexbox%20Photo%20Gallery)| Galería de fotos con flexbox |
 | 08 Nutritional Label |[📂](https://github.com/APoves/Repo/tree/main/08%20Nutritional%20Label)| Utilización de diferentes tipografías para una tabla nutricional |
-| 09 Quiz[📂](https://github.com/APoves/Repo/tree/main/09%20Aprende%20accesibilidad%20construyendo%20un%20cuestionario)| Aprende accesibilidad construyendo un cuestionario| |
+| 09 Quiz| [📂](https://github.com/APoves/Repo/tree/main/09%20Aprende%20accesibilidad%20construyendo%20un%20cuestionario) | Aprende accesibilidad construyendo un cuestionario| |
 | 🎯 10 Tribute Page |[📂](https://github.com/APoves/Repo/tree/main/10%20P%C3%A1gina%20de%20Homenaje)| Página de homenaje/tribudo. ***Proyecto de certificación (creación propia)*** |
 | 11 Balance Sheet |[📂](https://github.com/APoves/Repo/tree/main/11%20Balance%20Financiero) |Practicando pseudoselectores construyendo un balance financiero|
 | 12 Cat Painting |[📂](https://github.com/APoves/Repo/tree/main/12%20Aprende%20CSS%20intermedio%20haciendo%20una%20pintura%20de%20gatos)| Dibujo de un gato |
