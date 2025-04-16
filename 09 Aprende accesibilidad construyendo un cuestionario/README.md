@@ -16,6 +16,7 @@ En cuanto a CSS 🎨, me encanta trabajar con él, dándole sentido toda la estr
 Por último, hago mención especial a los href de la barra de navegación 👩‍💻 que permiten saltar automáticamente a la sección pulsada. Sin duda, una maravilla que me da la impresión de que utilizaré en distintos proyectos personales.
 
 
+
 LinkedIn 🪪: www.linkedin.com/in/auroramarinapoves
 
 Github 🐱 : https://github.com/APoves
