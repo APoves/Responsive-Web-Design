@@ -1,4 +1,4 @@
-![Technical Documentation view](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20view.png)
+![Technical Documentation view](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20video.mp4)
 
 ## Página de Documentación Técnica
 <br>
@@ -18,7 +18,8 @@ LinkedIn: www.linkedin.com/in/auroramarinapoves
 Github: https://github.com/APoves
 <br>
 <br>
-![Technical Documentation video](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20video.mp4)
+
+![Technical Documentation view](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20view.png)
 <br>
 
 ![Technical Documentation view with media querie](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20view%20mq.png)
