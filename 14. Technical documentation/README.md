@@ -1,4 +1,4 @@
-(https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20view.png)")
+![Technical Documentation view](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20view.png)
 
 ## Página de Documentación Técnica
 
