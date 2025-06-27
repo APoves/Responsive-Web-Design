@@ -1,0 +1,103 @@
+*{
+  background-color: #ECEFF1;
+  color: #263238;
+}
+
+header, h2{
+  font-family: "Raleway", sans-serif;
+  font-size: 2rem;
+  font-weight: 550;
+}
+
+h3{
+  font-family: "Lato", serif;
+  font-size: 1.2rem;
+}
+
+p,li{
+  font-family: "Lato", serif;
+  font-size: 1.2rem;
+  text-indent: 1rem;
+}
+
+code{ 
+  font-family: Monospace;
+  font-size: 1.1rem;
+}
+
+nav {
+  padding: 2px;
+  width: 100%;
+  max-width: 100%;
+  border: 1px solid #616161;
+  position: sticky;
+  overflow: auto;
+  text-align: center;
+  height: 14rem;
+  max-height: calc(4 * 5rem);
+  }
+
+li:first-child {
+  border-top: 1px solid #616161;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+nav > header{
+  margin: 0;
+  padding: 10px;
+}
+
+nav li{
+  list-style-type: none;
+  font-size: 1.3em;
+  border-bottom: 1px solid #616161;
+}
+
+li a:hover {
+  background-color: #616161;
+  color: #ECEFF1;
+}
+
+li a {
+  display: block;
+  color: #263238;
+  margin: 0;
+  padding: 8px 6px;
+  text-decoration: none;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+
+/*MAIN*/
+main{
+  margin: 10px;
+  padding: 20px;
+  text-align: justify;
+}
+
+
+/*MEDIA QUERIES*/
+@media screen and (min-width: 815px) {
+  nav {
+    width: 310px;
+    top:-5px;
+    left: -1px;
+    height: 100%;
+    position: fixed;
+    max-height: 100%;
+  }
+
+  #main-doc{
+    position: relative;
+    margin-left: 310px;
+    padding: 20px;
+  }
+
+}

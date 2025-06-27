@@ -1,0 +1,235 @@
+<!DOCTYPE html> 
+<html lang="es">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Documentación Java</title>
+    <link rel="stylesheet" href="styles.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+
+  </head>
+  <body>
+    <nav id="navbar">
+      <header>Documentación Java</header>
+      <ul>
+        <li><a class="nav-link" href="#java">Java</a></li>
+        <li><a class="nav-link" href="#hello_world">Hello World</a></li>
+        <li><a class="nav-link" href="#datos_primitivos">Datos primitivos</a></li>
+        <li><a class="nav-link" href="#string">String</a></li>
+        <li><a class="nav-link" href="#variables">Variables</a></li>
+        <li><a class="nav-link" href="#constantes">Constantes</a></li>
+        <li><a class="nav-link" href="#estructuras_de_control">Estructuras de control</a></li>
+        <li><a class="nav-link" href="#referencias">Referencias</a></li>
+      </ul>
+    </nav>
+
+    <main id="main-doc">
+      <section class="main-section" id="java">
+        <header>Java</header>
+        <article>
+          <p>Java es uno de los lenguajes de programación más populares del mundo.</p>
+          <p>Al ser un lenguaje de programación tan popular, sus características son muy conocidas:
+          <li>Lenguaje fuertemente tipado.</li>
+          <li>Orientado a objetos.</li>
+          <li>Es un lenguaje interpretado.</li>
+          <li>Sensible a mayúsculas.</li>
+          <li>Portable.</li>
+          <li>Robusto.</li>
+          <li>Seguro.</li>
+          <p>Además de ello, es conocido por ser un lenguaje de programación orientado a objetos, en el que cada elemento es considerado un objeto.</p>
+          <p>Con Java, es posible desarrollar desde aplicaciones básicas para diversos dispositivos hasta grandes aplicaciones empresariales, ya que su lema es "Write Once Run Everywhere", siendo posible su ejecución en todo dispositivo en el cual cuenta con la Java Virtual Machine instalada.</p>
+        </article>
+      </section>
+
+      <section class="main-section" id="hello_world">
+        <header>Hello World</header>
+        <article>
+          <p>Es cierto que Java es un lenguaje verboso, lo que no pone fácil crear el primer Hello World:</p>
+          <p><code>public class HelloWorld {</code></p>
+          <p><code>public static void main(String[] args) {</code></p>
+          <p><code>System.out.println("Hello World");</code></p>
+          <br>
+          <h3>Desglose del código</h3>
+          <p><code>public class HelloWorld</code> declara la clase HelloWorld.</p>
+          <p><code>public static void main(String[] args)</code> será el método principal, necesario para toda aplicación Java.</p>
+          <p><code>System.out.println("Hello, World!");</code> imprime el texto en consola, siendo <code>System.out</code> el flujo de salida estándar, y <code>System.out.println("Hello World!");</code> el método que imprime la línea de texto indicado.</p>
+        </article>
+      </section>
+
+      <section class="main-section" id="datos_primitivos">
+        <header>Datos primitivos</header>
+        <article>
+          <p>Al ser Java un lenguaje fuertemente tipado, es necesario definir el tipo de dato al definir la variable, por lo que es necesario conocer los tipos de datos primitivos con los que cuenta el lenguaje:</p>
+            
+          <h3>Byte</h3>
+          <p>Tipo de dato numérico entero cuyo tamaño son 8 bits.</p>
+
+          <h3>Short</h3>
+          <p>Tipo de dato numérico entero cuyo tamaño son 16 bits.</p>
+
+          <h3>Int</h3>
+          <p>Tipo de dato numérico entero cuyo tamaño son 32 bits.</p>
+        
+          <h3>Long</h3>
+          <p>Tipo de dato numérico entero cuyo tamaño son 64 bits.</p>
+
+          <h3>Float</h3>
+          <p>Tipo de dato numérico decimal cuyo tamaño son 32 bits.</p>
+
+          <h3>Double</h3>
+          <p>Tipo de dato numérico decimal cuyo tamaño son 64 bits.</p>
+
+          <h3>Boolean</h3>
+          <p>Su tamaño es 1 bit.</p>
+          <p>Define tipos de datos booleanos, únicamente con los valores true o false.</p>
+          <p>Son utilizados para controlar el flujo de un programa, a través de condiciones simples.</p>
+          
+          <h3>Char</h3>
+          <p>Su tamaño son 16 bits.</p>
+          <p>Representa un carácter Unicode.</p>
+        </article>
+      </section>
+
+      <section class="main-section" id="string">
+        <header>String</header>
+        <article>
+          <p>String en Java se considera una clase que representa una cadena de texto, una secuencia de caracteres alfanuméricos, además de puntuación y espacios en blanco.</p>
+          <p>Todo el contenido de un string debe aparecer entre comillas dobles. Por ejemplo: </p>
+          <p><code>"Hello World!"</code>.</p>
+          <p>Un String sería el <code>Hola Mundo</code> que imprimiría un <code>System.out.println("Mi Cadena de Texto");</code>.</p>
+          <p>La clase String proporciona diversos métodos, útiles para manipular y trabajar con estos elementos.</p>
+          <p>Entre los métodos más comunes para trabajar con String, se encuentran:</p>
+          <p><code>length()</code>, que devuelve la longitud de la cadena.</p>
+          <p><code>charAt(int index)</code>, que devuelve el carácter en una posición específica.</p>
+          <p><code>toLowerCase()</code>, el cual convierte todos los caracteres de la cadena a minúsculas.</p>
+          <p><code>toUpperCase()</code>, al contrario que el anterior, convierte todos los caracteres de la cadena a mayúsculas.</p>
+          <p>Para comparar cadenas, no se debe usar el operador <code>==</code>, sino el método <code>equals()</code> o <code>equalsIgnoreCase()</code> si no se quiere tener en cuenta las mayúsculas o minúsculas.</p>
+        </article>
+      </section>
+
+      <section class="main-section" id="variables">
+        <header>Variables</header>
+        <article>
+          <p>Una variable en Java es un espacio de memoria reservada en memoria, en el que se almacena un valor</p>
+          <p>Las variables, además de contar con un tipo de dato el cual define el tipo de información que contiene, siempre cuentan con un nombre asignado.</p>
+          <p>Ejemplos de declaración de variables, serían:</p>
+          <p><code>int numero = 3;</code></p>
+          <p><code>long numeroGrande = 27;
+          <p><code>float decimal = 3.14;</code></p>
+          <p><code>boolean night = true;</code></p>
+          <p><code>String firstProgram = "Hello World";</code></p>
+          <p>La convención es que las variables se escriban con la primera letra minúscula, y de ser dos o más palabras la primera comienza en minúscula y el resto con la primera letra mayúscula, todas sin espacio.</p>
+          <p>Al nombrar una variable, es necesario tener en cuenta que al nombrarlas no se pueden utilizar palabras reservadas del propio lenguaje.</p>
+        </article>
+      </section>
+
+      <section class="main-section" id="constantes">
+        <header>Constantes</header>
+        <article>
+          <p>Una constante en Java es un valor inmutable, ya que una vez se le asigne su valor, no se podrá cambiar.</p>
+          <p>Se utilizan para garantizar que datos los específicos que nunca varían, como lo pueden ser el número de los días de la semana o el número pi, se mantengan constantes a lo largo del programa.</p>
+          <p>La declaración de una constante en Java se realiza usando las palabras clave <code>static</code> y <code>final</code>.</p>
+          <p>Un ejemplo básico de declaración de constante sería:</p>
+          <p><code>static final TIPO NOMBRE_CONSTANTE = valor;</code></p>
+          <p>Donde <code>TIPO</code> es el tipo de dato, como <code>int</code>, <code>double</code> o <code>String</code>.</p>
+          <p>Al declarar una constante, siempre se pone la palabra reservada <code>final</code> antes del nombre de la constante para indicar que su valor no puede cambiar.</p>
+          <p>La convención para nombrar constantes es escribir los nombres en mayúsculas y, si contienen más de una palabra, separarlas con guiones bajos, por ejemplo: <code>NUM_DIAS_SEMANA</code>.</p>
+          <p>Utilizar constantes ayuda a evitar errores, ya que, al ser inmutables, no se pueden modificar accidentalmente durante la ejecución del programa.</p>
+          <p>Además, las constantes mejoran la legibilidad del código, ya que su nombre en mayúsculas indica claramente que se trata de un valor fijo y definido previamente.</p>
+          <p>También facilitan el mantenimiento del código, porque si se necesita cambiar el valor de una constante, se hace en un solo lugar, y el cambio se refleja en todo el programa.</p>
+        </article>
+      </section>
+
+      <section class="main-section" id="estructuras_de_control">
+        <header>Estructuras de control</header>
+        <article>
+          <p>Las estructuras de control de flujo son elementos clave en la programación, ya que, gracias a ellos, es posible tomar decisiones y repetir acciones.</p>
+          <p>Java cuenta, además de break y continue, con dos tipos de estructuras de control, siendo estas las estructuras condicionales y las estructuras de repetición o bucles.</p>
+          
+          <h2>Break y continue</h2>
+          <p>Dichas estructuras, permiten romper o continuar con el flujo del programa.</p>
+          <h3>Break</h3>
+          <p>Normalmente, un bucle se ejecutaría hasta su finalización, pero con break se interrumpe y se fuerza la salida del bloque.</p>
+          <p>En caso de querer romper esa ejecución en algún punto concreto, es posible utilizar break, permitiendo salir del bloque de sentencias.</p>
+          
+          <h3>Continue</h3>
+          <p>Continue, al contrario que break, se utiliza para desplazarse directamente al siguiente bloque, continuando el flujo del programa.</p>
+
+          <h2>Sentencias de decisión</h2>
+          <p>Estas sentencias de decisión, también conocidas como condicionales, son el if, if-else y switch.</p>
+          <p>Permiten evaluar una o varias condiciones para decidir qué bloque de código se ejecutará.</p>
+
+          <h3>If</h3>
+          <p>If permite ejecutar un bloque de código si se cumple una condición determinada. De no cumplirse, omitirá dicho bloque y continuará con el siguiente.</p>
+          <p>Suele ejecutarse acompañado de else, a pesar de poder ser utilizado de manera individual.</p>
+
+          <h3>If-else</h3>
+          <p>Un if puede incluir también una cláusula else, dando ejecución a otro bloque de código en caso de no cumplirse la primera condición.</p>
+          <p><code>if (condición) {</code></p>
+            <p><code>// Bloque a ejecutar si se cumple la condición anterior.</code></p>
+          <p><code>} else {</code></p>
+          <code><p>// Bloque else, el cual se ejecutará al no cumplirse la condición anterior.</code></p>
+          <code><p>}</code></p>
+
+          <h3>Switch</h3>
+          <p>Switch es la estructura adecuada para evaluar múltiples decisiones y ejecutar el bloque seleccionado.</p>
+          <p>Es útil para seleccionar una opción entre múltiples casos.</p>
+          <p><code>switch (option) {</code>
+          <p><code>case option1:</code>
+          <p><code>// Código a ejecutar si es option1.</code></p>
+          <p><code>break;</code></p>
+          <p><code>case option2:</code></p>
+          <p><code>// Código a ejecutar si es option2.</code></p>
+          <p><code>break;</code></p>
+          <p><code>default:</code></p>
+          <p><code>// Código a ejecutar si es otra opción.</code></p>
+          <p><code>}</code></p>
+
+          <h2>Sentencias de repetición o bucles</h2>
+          <p>Los bucles permiten ejecutar un bloque de código un número, determinado o indeterminado de ocasiones, hasta darse una condición.</p>
+          <p>Una vez se cumpla la condición, el programa saldrá de dicho bucle.</p>
+          <p>Estas sentencias de repetición son el for, while y do-while.</p>
+          
+          <h3>For</h3>
+          <p>For ejecuta un bloque un número determinado de veces.</p>
+          <p>Para ello, al declarar un for, es necesario indicar el punto de inicio, la condición para su fin y su incremento o decremento.</p>
+          <p><code>int i;</code></p>
+          <p><code>for (i = 0; i < 10; i++) {</code></p>
+          <p><code>  // Acción que se repetirá</code></p>
+          <p><code> System.out.println("Total de repeticiones del for: " + i); 
+          <p><code>}</code></p>
+        
+          <h3>While</h3>
+          <p>El bucle while ejecuta un bloque mientras se cumpla una condición. Esta condición, será lo que indique el número determinado de veces que se repetirá la condición.</p>
+          <p>Antes de ejecutar por primera vez el bloque, evaluará si se cumple la condición. Una vez realice dicho bloque, volverá a realizar la evaluación, hasta salir del bucle en el momento que deje de cumplirse.</p>
+          <p>Por este motivo, es necesario que dentro del bucle while, se encuentre al menos una sentencia que modifique dicha evaluación.</p>
+          <p><code>int i=0;</code></p>
+          <p><code>while (i <= 10) {</code></p>
+          <p><code>//Acción que se repetirá.</code></p>
+          <p><code>i++;</code></p>
+          <p><code>}</code></p>
+          <p><code>System.out.println("Total de repeticiones del while: " + i);</code></p>
+          
+          <h3>Do-while</h3>
+          <p>El bucle do-while, desde el principio, ejecuta el bloque de código. Tras ello, verifica si se cumple o no la condición para continuar dentro del bucle o salir de él.</p>
+          <p>Con esto, se consigue que el bloque de sentencias se ejecute al menos una vez.</p>
+          <p><code>int i;</code></p>
+          <p><code>do {</code></p>
+          <p><code>//Acción que se repetirá.</code></p>
+          <p><code>i++;</code></p>
+          <p><code>} while (i < 10);</code></p>
+          <p><code>System.out.println("Total de repeticiones del do-while: " + i);</code></p>
+        </article>
+      </section>
+
+      <section class="main-section" id="referencias">
+        <header>Referencias</header>
+        <article>
+          <p>Toda la documentación e información de la presente sitio web ha sido tomada de <a id="oracle-link" href="https://docs.oracle.com/en/java/" target="_blank">Oracle</a> y  <a id="tribute-link" href="https://dev.java/" target="_blank">Dev.java</a>, además de traducida y reestructurada por la autora del sitio web.</p>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
