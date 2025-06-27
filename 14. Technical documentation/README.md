@@ -20,4 +20,5 @@ Github: https://github.com/APoves
 <br>
 ![Technical Documentation video](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20video.mp4)
 <br>
-![Technical Documentation view with media queri](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20view%20mq.png)
+
+![Technical Documentation view with media querie](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20view%20mq.png)
