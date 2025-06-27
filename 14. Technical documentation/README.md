@@ -3,17 +3,14 @@
 ## Página de Documentación Técnica
 
 ### Crea una página de Documentación Técnica
-
-
+<br>
 Proyecto 14:Crea una página de documentación técnica.
-
-
+<br>
 Documentación técnica sobre Java ☕. 
-
+<be></be>
 Diseño mobile-first, con medias queries para desktop.
-
-
-
+<br>
+<br>
 LinkedIn: www.linkedin.com/in/auroramarinapoves
-
+<br>
 Github: https://github.com/APoves
