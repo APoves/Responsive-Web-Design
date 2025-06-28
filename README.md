@@ -26,12 +26,12 @@ El fin de dicha certificación, es obtener, de manera interactiva, el conocimien
 | 07 CSS Flexbox Photo Gallery |[📂](https://github.com/APoves/Repo/tree/main/07%20CSS%20Flexbox%20Photo%20Gallery)| Galería de fotos con flexbox |
 | 08 Nutritional Label |[📂](https://github.com/APoves/Repo/tree/main/08%20Nutritional%20Label)| Utilización de diferentes tipografías para una tabla nutricional |
 | 09 Quiz| [📂](https://github.com/APoves/Repo/tree/main/09%20Aprende%20accesibilidad%20construyendo%20un%20cuestionario) | Aprende accesibilidad construyendo un cuestionario| |
-| 🎯 10 Tribute Page |[📂](https://github.com/APoves/Repo/tree/main/10%20P%C3%A1gina%20de%20Homenaje)| Página de homenaje/tribudo. ***Proyecto de certificación (creación propia)*** |
+| 🎯 10 Tribute Page |[📂](https://github.com/APoves/Repo/tree/main/10%20P%C3%A1gina%20de%20Homenaje)| Página de homenaje/tributo. ***Proyecto de certificación (creación propia)*** |
 | 11 Balance Sheet |[📂](https://github.com/APoves/Repo/tree/main/11%20Balance%20Financiero) |Practicando pseudoselectores construyendo un balance financiero|
 | 12 Cat Painting |[📂](https://github.com/APoves/Repo/tree/main/12%20Aprende%20CSS%20intermedio%20haciendo%20una%20pintura%20de%20gatos)| Dibujo de un gato |
 | 13  Piano Painting |[📂](https://github.com/APoves/Repo/tree/main/13%20Aprende%20dise%C3%B1o%20web%20adaptativo%20construyendo%20un%20piano)| Diseño responsivo dibujando un piano |
-| 🎯 14  Piano Painting |[📂](https://github.com/APoves/Repo/tree/main/13%20Aprende%20dise%C3%B1o%20web%20adaptativo%20construyendo%20un%20piano)| Diseño responsivo dibujando un piano |
-| 15 Learn CSS Variables by Building a Skyline |[📂][(https://github.com/APoves/Responsive-Web-Design/tree/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline)]| Aprende variables de CSS construyendo el skyline de una ciudad |
+| 🎯 14  Technical Documentation |[📂]([https://github.com/APoves/Repo/tree/main/13%20Aprende%20dise%C3%B1o%20web%20adaptativo%20construyendo%20un%20piano](https://github.com/APoves/Responsive-Web-Design/tree/main/14.%20Technical%20documentation))| Página de Documentación Técnica***Proyecto de certificación (creación propia)*** |
+| 15 Learn CSS Variables by Building a Skyline |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline)| Aprende variables de CSS construyendo el skyline de una ciudad |
 
 
  
