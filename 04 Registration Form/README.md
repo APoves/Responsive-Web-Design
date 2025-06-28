@@ -1,15 +1,24 @@
-## Registration Form
-### Registration Form
+## Learn HTML Forms by building a Registration Form
 
-Continúo con la certificación de Diseño Web Responsivo, de la mano de FreeCodeCamp 👩‍💻.
+<br>
 
-Proyecto 04 Registration Form.
+### Aprende formularios HTML construyendo un formulario de registro
 
-
-En este proyecto, continúo con los primeros pasos en HTML y CSS, esta vez realizando algo con un poco más de sentido (o eso piensa mi cerebro tras haberlo realizado), como lo es un formulario de registro, algo básico para casi todo tipo de aplicaciones y webs, por lo que sin duda me anoto toda esta parte, ya que me temo que es algo que utilizaré de manera constante en los diferentes proyectos que vengan en un futuro.
-
-Continúa siendo motivador ver como con un conocimiento tan básico (por supuesto, todo siguiendo los pasos marcados por FreeCodeCamp) se van creando diferentes cosas y se van ampliando las posibilidades.
-
+<br>
+<br>
+Proyecto 4: Aprende formularios HTML construyendo un formulario de registro.
+<br>
+<br>
+Mini-proyecto HTML y CSS, esta vez realizando un formulario de registro.
+<br>
+<br>
 LinkedIn: www.linkedin.com/in/auroramarinapoves
-
+<br>
+<br>
 Github: https://github.com/APoves
+
+<br>
+<br>
+
+<br>
+![Survey form](https://github.com/APoves/Responsive-Web-Design/blob/main/04%20Registration%20Form/Survey%20form.jpg)
