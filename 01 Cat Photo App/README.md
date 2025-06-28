@@ -16,3 +16,6 @@ LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
 <br>
 Github: https://github.com/APoves
+<br>
+
+![image](https://github.com/APoves/Responsive-Web-Design/blob/main/01%20Cat%20Photo%20App/Cat%20Photo%20App.jpg)
