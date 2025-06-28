@@ -4,8 +4,8 @@
 ### Aprende HTML construyendo una aplicación de fotos de gatos.
 <br>
 <br>
-<br>
 Proyecto 01: Cat Photo App.
+
 <br>
 Comienzo de la certificación de Diseño Web Responsivo, de FreeCodeCamp.
 <br>
