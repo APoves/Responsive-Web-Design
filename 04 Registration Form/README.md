@@ -21,4 +21,7 @@ Github: https://github.com/APoves
 <br>
 
 <br>
+![Survey Form][(https://github.com/APoves/Responsive-Web-Design/blob/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline/dayskyline.jpg)
+
+
 ![Survey form](https://github.com/APoves/Responsive-Web-Design/blob/main/04%20Registration%20Form/Survey%20form.jpg)
