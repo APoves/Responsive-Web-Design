@@ -1,6 +1,6 @@
 ![Technical Documentation view](https://github.com/APoves/Responsive-Web-Design/blob/main/14.%20Technical%20documentation/Technical%20documentation%20view%20mq.png)
 
-## Technical Documentation (Certification Proyect)
+## Technical Documentation (Certification Proyect 🎯)
 <br>
 ### Technical Documentation (Certification Proyect)
 <br>
