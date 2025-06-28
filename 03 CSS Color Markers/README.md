@@ -26,4 +26,4 @@ Github: https://github.com/APoves
 <br>
 
 
-![Colored Markers](https://github.com/APoves/Responsive-Web-Design/blob/main/03%20CSS%20Color%20Markers/CSS%20Color%20Markers.png)
+![Colored Markers](https://github.com/APoves/Responsive-Web-Design/blob/main/03%20CSS%20Color%20Markers/CSS%20Color%20Markers.jpg)
