@@ -26,4 +26,4 @@ Github: https://github.com/APoves
 <br>
 
 <br>
-![Survey form](https://github.com/APoves/Responsive-Web-Design/blob/main/05%20Survey%20Form%20(Certification%20Project)/Survey%20form.jpg)
+![Survey form] (https://github.com/APoves/Responsive-Web-Design/blob/main/05%20Survey%20Form%20(Certification%20Project)/Survey%20form.jpg)
