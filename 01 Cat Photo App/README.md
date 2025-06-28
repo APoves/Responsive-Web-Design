@@ -1,7 +1,7 @@
-## CatPhotoApp
+## Learn HTML by building a Cat Photo App
 <br>
 
-### CatPhotoApp HTML 
+### Aprende HTML construyendo una aplicación de fotos de gatos.
 <br>
 <br>
 <br>
