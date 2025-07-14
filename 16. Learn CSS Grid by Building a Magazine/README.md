@@ -30,8 +30,4 @@ Github: https://github.com/APoves
 Magazine
 ![Magazine](https://github.com/APoves/Responsive-Web-Design/blob/main/16.%20Learn%20CSS%20Grid%20by%20Building%20a%20Magazine/Magazine.png)
 <br>
-Skyline noche (con media queries):
-![Night skyline](https://github.com/APoves/Responsive-Web-Design/blob/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline/nightskylineMQ.jpg)
-https://github.com/APoves/Responsive-Web-Design/blob/main/16.%20Learn%20CSS%20Grid%20by%20Building%20a%20Magazine/Magazine.png
-
 
