@@ -32,7 +32,7 @@ El fin de dicha certificación, es obtener, de manera interactiva, el conocimien
 | 13  Piano Painting |[📂](https://github.com/APoves/Repo/tree/main/13%20Aprende%20dise%C3%B1o%20web%20adaptativo%20construyendo%20un%20piano)| Diseño responsivo dibujando un piano |
 | 🎯 14  Technical Documentation |[📂]([https://github.com/APoves/Repo/tree/main/13%20Aprende%20dise%C3%B1o%20web%20adaptativo%20construyendo%20un%20piano](https://github.com/APoves/Responsive-Web-Design/tree/main/14.%20Technical%20documentation))| Página de Documentación Técnica ***Proyecto de certificación (creación propia)*** |
 | 15 Learn CSS Variables by Building a Skyline |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline)| Aprende variables de CSS construyendo el skyline de una ciudad |
-
+| 16. Learn CSS Grid by Building a Magazine |[📂]()| Aprende Grid con Css construyendo una Revista |
 
  
 ### 🛠 Herramientas y tecnologías utilizadas
