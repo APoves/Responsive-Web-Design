@@ -17,6 +17,7 @@ Manejo correcto de cuadrículas y espacios, aplicando una buena disposición y d
 <br>
 Uso de media queries, las cuales permiten cambiar la disposición del diseño.
 <br>
+<br>
 LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
 <br>
@@ -26,10 +27,11 @@ Github: https://github.com/APoves
 <br>
 
 
-Skyline día:
-![Day skyline](https://github.com/APoves/Responsive-Web-Design/blob/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline/dayskyline.jpg)
+Magazine
+![Magazine](https://github.com/APoves/Responsive-Web-Design/blob/main/16.%20Learn%20CSS%20Grid%20by%20Building%20a%20Magazine/Magazine.png)
 <br>
 Skyline noche (con media queries):
 ![Night skyline](https://github.com/APoves/Responsive-Web-Design/blob/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline/nightskylineMQ.jpg)
+https://github.com/APoves/Responsive-Web-Design/blob/main/16.%20Learn%20CSS%20Grid%20by%20Building%20a%20Magazine/Magazine.png
 
 
