@@ -1,8 +1,6 @@
 
 ## Learn CSS Grid by Building a Magazine
 
-<br>
-
 ### Aprende Grid con CSS construyendo una Revista
 
 <br>
