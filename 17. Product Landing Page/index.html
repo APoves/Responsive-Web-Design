@@ -5,15 +5,24 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta name="description" content="Password Generator Landing Page" />
       <title>Password Generator</title>
-      <link rel="stylesheet" href="styles.css"/>
-      <link
-      href="https://fonts.googleapis.com/css?family=Anton%7CBaskervville%7CRaleway&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
-    />
+      <link rel="stylesheet" href="styles.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+      <!-- Anton, Baskerville, Raleway -->
+      <link href="https://fonts.googleapis.com/css?family=Anton%7CBaskervville%7CRaleway&display=swap" rel="stylesheet">
+      <!-- Rajdhani -->
+      <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
+      <!-- Orbitron -->
+      <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap" rel="stylesheet">
+      <!-- Bebas Neue -->
+      <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+      <!-- Exo 2 -->
+      <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700&display=swap" rel="stylesheet">
+      <!-- Rubik -->
+      <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600&display=swap" rel="stylesheet">
+      <!-- Quicksand -->
+      <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap" rel="stylesheet">
+      <!-- Nunito -->
+      <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
     </head>
 
     <body>
@@ -38,8 +47,23 @@
       </section>
         
       <!--SECTION-->
-        <div>Aquí va un botón "Generar contraseña"</div>
-        <div>Cuadro contraseña generada</div>
+        <div class= "generate_button">
+          <button type="button" id="generator_button">Generar Contraseña</button>
+        </div>
+
+        <div class="password_container">
+            <input type="text" id="password_result" readonly class="password-box" title="Generar contraseña" placeholder="La contraseña generada aparecerá aquí">
+            <button class="copy_button" id="copy_button" title="Copiar contraseña">
+              <i class="fi fi-bs-copy-alt"></i>
+            </button>
+          </div>
+          <div class="new_password">
+            <button id="update_password" type="button" title="Generar nueva contraseña">
+              <i class="fi fi-br-refresh"></i> Nueva contraseña
+            </button>
+        </div>
+
+
         <div>Botón Nueva Contraseña</div>
         <div>Longitud de contraseña</div>
         <div>Barra longitud de contraseña</div>
