@@ -1,3 +1,7 @@
+*{
+  font-size: 18px;
+}
+
 /*NAV*/
 #nav-bar {
   position: fixed;
@@ -42,11 +46,7 @@ body {
 
 /* Letra */
 h1 {
-  font-family: 'Anton', sans-serif;
-}
-
-h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', sans-serif;
+   font-family: 'Orbitron', sans-serif;
 }
 
 /* Imagen*/
@@ -64,6 +64,7 @@ img {
 }
 
 #hero-title {
+  font-family: 'Orbitron', sans-serif;
   text-align: center;
   color: #1E3A8A;
   font-size: 4.5rem;
@@ -72,11 +73,199 @@ img {
 }
 
 #hero-subtitle {
+    font-family: 'Rubik', sans-serif;
   font-size: 2rem;
   color: #1E3A8A;
   /*color: #334155;*/
   text-align: center;
 }
+
+
+/* GENERADOR CONTRASEÑA */
+
+.password_form label[for="password_length"] {
+  display: block;
+  margin: 2.5rem auto 0.5rem auto;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: 'Rubik', sans-serif;
+  color: #065084;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+}
+
+/* Slider longitud */
+.slider_length {
+  width: 50%;              
+  display: flex;
+  align-items: center;
+  margin: 0 auto 1.2rem;
+  gap: 1rem;
+}
+
+#length_output {
+  font-size: 1.1rem;
+  font-weight: bold;
+  min-width: 2rem;
+  text-align: center;
+}
+
+.slider_length input[type="range"] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 100%;
+  height: 8px;
+  background: #ddd;
+  border-radius: 4px;
+}
+
+input[type="range"] {
+  flex: 1;
+  accent-color: #0077cc;
+}
+input[type="range"] {
+-webkit-appearante: none;
+  width: 75%;
+  height: 8px;
+  background: #ddd;
+  border-radius: 4px;
+}
+
+.slider_length input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 8px;
+  height: 22px;
+  background: #1E3A8A;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.slider_length input[type="range"]::-moz-range-thumb {
+  cursor: pointer;
+  width: 8px;
+  height: 22px;
+  background: #1E3A8A;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* Botón generar contraseña */
+.generate_button{
+  margin: 1.6rem auto 0.6rem auto;
+  width: 50%;
+  padding: 10px;
+}
+
+#generator_button {
+  margin: 0.8rem;
+  display: inline-block;
+  padding: 10px 15px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #FFFBDE;
+  background-color: #065084;
+  border: none;
+  border-radius: 13px;
+  box-shadow: 0 2px #999;
+}
+
+#generator_button:hover {background-color: #FFFBDE;
+color: #1E3A8A;
+transition: background-color 0.4s ease;
+}
+
+#generator_button:active {
+  background-color: #FEFBC7;
+  box-shadow: 0 1px #666;
+  transform: translateY(3px);
+}
+
+
+/* Generar contraseña */
+#password_container{
+  margin: auto;
+  width: 70%;
+  padding: 7px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  }
+
+.password-box {
+  border: 2px solid #065084; 
+  border-radius: 7px;
+  width: 100%;
+  min-width: 200px;
+  height: 40px;
+  font-size: 22px;
+  font-weight: bold;
+  flex-grow: 1;
+  padding: 8px 12px;
+}
+
+/* Copiar contraseña */
+.copy_button {
+  padding: 10px 12px;
+  border: 1.5px solid #007bff;
+  border-radius: 5px;
+  background-color: #065084;
+  cursor: pointer;
+  transition: background-color 0.4s ease;
+}
+
+.copy_button:hover {
+  background-color: #FEFBC7;
+}
+
+.copy_button:active {
+  background-color: #FEFBC7;
+  box-shadow: 0 1px #666;
+  transform: translateY(3px);
+}
+
+/* Nueva contraseña */
+.update_password{
+  text-align: center;
+  margin: 1.6rem auto;
+  width: 50%;
+}
+
+#update_password {
+  margin: 0;
+  display: inline-block;
+  align-items: center;
+  padding: 5px 9px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  color: #FFFBDE;
+  background-color: #06508480;
+  border: none;
+  border-radius: 7px;
+  box-shadow: 0 2px #99999980;
+}
+
+#update_password:hover {background-color: #FFFBDE80;
+color: #0056b3;
+transition: background-color 0.4s ease;
+}
+
+#update_password:active {
+  background-color: #FFFBDE80;
+  box-shadow: 0 1px #66666680;
+  transform: translateY(3px);
+}
+
+.new_password {
+  margin: 1.6rem auto 0.6rem;
+  width: 50%;
+  text-align: center;        
+}
+
+
 
 /*Instrucciones uso*/
 #steps {
