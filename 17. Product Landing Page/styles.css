@@ -1,7 +1,3 @@
-*{
-  font-size: 18px;
-}
-
 /*NAV*/
 #nav-bar {
   position: fixed;
@@ -9,9 +5,8 @@
   left: 0;
   width: 100%;
   z-index: 1000;
-  padding: 1rem 0;
+  padding: 0.2rem 0;
   background-color: rgba(0, 0, 0, 0.2);
-
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
@@ -25,7 +20,7 @@ ul {
 li a {
   display: block;
   color: white;
-  padding: 8px 16px;
+  padding: 6px 16px;
   text-decoration: none;
 }
 
@@ -46,19 +41,32 @@ body {
 
 /* Letra */
 h1 {
-   font-family: 'Orbitron', sans-serif;
+  font-size: clamp(2rem, 5vw, 3rem);
 }
+
+h2 {
+  font-size: clamp(1.5rem, 4vw, 2rem);
+}
+
+h3 {
+  font-size: clamp(1rem, 3vw, 1.5rem);
+}
+
+p {
+  font-size: clamp(0.875rem, 2vw, 1rem);
+}
+
+
 
 /* Imagen*/
 img {
-  max-width: 75%;
+  max-width: 25%;
   height: auto;
   display: block;
-  margin: auto;
+  margin: 3rem auto;
 }
 
 /* Hero */
-
 #hero {
   position: relative;
 }
@@ -68,15 +76,15 @@ img {
   text-align: center;
   color: #1E3A8A;
   font-size: 4.5rem;
-  margin-bottom: -20px;
+  /*margin-bottom: -30px;*/
+  margin: -50px auto -30px auto;
   line-height: 1.2;
 }
 
 #hero-subtitle {
-    font-family: 'Rubik', sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 2rem;
   color: #1E3A8A;
-  /*color: #334155;*/
   text-align: center;
 }
 
@@ -141,7 +149,6 @@ input[type="range"] {
   cursor: pointer;
 }
 .slider_length input[type="range"]::-moz-range-thumb {
-  cursor: pointer;
   width: 8px;
   height: 22px;
   background: #1E3A8A;
@@ -267,12 +274,60 @@ transition: background-color 0.4s ease;
 
 
 
-/*Instrucciones uso*/
+/* USE INSTRUCTIONS */
+/*  Container  */
 #steps {
   display: flex;
-  justify-content: space-evenly;
   flex-direction: row;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 2rem 1.5rem;
+  box-sizing: border-box;
 }
+
+/* Steps */
+#steps .step {
+  border: 2px solid #60A5FA;
+  border-radius: 8px;
+  flex: 1;
+  padding: 1rem;
+  background-color: rgba(224, 242, 254, 0.8);
+  box-sizing: border-box;
+  transition: transform .2s ease;
+}
+
+#steps .step:hover {
+  transform: translateY(-4px);
+}
+
+/* Step titles */
+#steps .step h3 {
+  margin-top: -5px;
+  color: #1E3A8A;
+  margin-bottom: 0.25rem;
+}
+
+/* Step text */
+#steps .step p {
+
+  margin-bottom: 0;
+  margin-top: 0;
+  color: #334155;
+}
+
+/*     MQ     */
+@media only screen and (max-width: 600px) {
+  /*INSTRUCTIONS*/
+  #steps {
+    flex-direction: column;
+  }
+  #steps .step {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+
 
 
 
