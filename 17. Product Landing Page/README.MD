@@ -1,1 +1,1 @@
-## Mini-proyecto en construcción
+Mini-proyecto en construcción
