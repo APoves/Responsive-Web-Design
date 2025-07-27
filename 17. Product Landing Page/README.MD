@@ -5,7 +5,7 @@
 Diseño responsivo de una **Landing Page de Producto**, creado como proyecto de creación propia
 <br>
 Este mini-proyecto es parte de la certificación de FreeCodeCamp 'Responsive Web Design'.
- Debido a pretensiones de lanzarlo como proyecto totalmente funcional, ha sido modificado levemente respecto a los requisitos que se pedían para la certificación.
+Debido a pretensiones de lanzarlo como proyecto totalmente funcional, ha sido modificado levemente respecto a los requisitos que se pedían para la certificación.
 
 <br>
 <br>
