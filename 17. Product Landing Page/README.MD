@@ -1,6 +1,5 @@
 ## Product Landing Page.
 ### Proyecto 17: Landing Page (Proyecto de certificación 4/5. Creación propia 🎯)
-
 <br>
 <br>
 Diseño responsivo de una **Landing Page de Producto**, creado como proyecto de creación propia, parte de la certificación de FreeCodeCamp Responsive Web Design.
@@ -39,8 +38,10 @@ Puedes verlo desplegado aquí 👉 [VERCEL - Landing Page](https://<TU-URL>.verc
 ├── images/
 <br>
 └── README.md
-<br
+
 <br>
+<br>
+
 Portfolio Web: https://aurorapoves.vercel.app/
 <br>
 <br>
