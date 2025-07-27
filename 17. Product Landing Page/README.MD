@@ -25,7 +25,7 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 ## Demo:
 <br>
 
-Puedes verlo desplegado aquí 👉 [VERCEL - Landing Page](https://<TU-URL>.vercel.app)  
+Puedes verlo desplegado aquí 👉 [VERCEL - Landing Page](https://instantpasswordgenerator.vercel.app/)  
 <br>
 
 ## Estructura del proyecto
