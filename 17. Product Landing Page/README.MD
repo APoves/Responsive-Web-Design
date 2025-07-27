@@ -1,7 +1,4 @@
 ## Product Landing Page.
-<br>
-<br>
-
 ### Proyecto 17: Landing Page (Proyecto de certificación 4/5. Creación propia 🎯)
 
 <br>
@@ -24,11 +21,6 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 - Media queries.
 <br>
 
-Este proyecto se adapta correctamente a:
-- Dispositivos móviles.
-- Tablets.
-- Escritorios.
-<br>
 <br>
 
 ## Demo:
