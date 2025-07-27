@@ -15,24 +15,29 @@ Esta página simula el sitio web de un generador de contraseñas.
 Construida únicamente con HTML y CSS, aplicando principios de diseño responsivo, posicionamiento, y componentes semánticos.
 <br>
 <br>
-## 🛠️ Tecnologías:
+
+## Tecnologías:
 - HTML5.
 - CSS3 (Flexbox, Grid).
 - Fuentes externas vía Google Fonts.
 - Iconos de Fonts Awesome.
 - Media queries.
 <br>
+
 Este proyecto se adapta correctamente a:
 - Dispositivos móviles.
 - Tablets.
 - Escritorios.
 <br>
 <br>
-## Demo
+
+## Demo:
+<br>
+
 Puedes verlo desplegado aquí 👉 [VERCEL - Landing Page](https://<TU-URL>.vercel.app)  
 <br>
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 /
 <br>
 ├── index.html
