@@ -1,9 +1,7 @@
-## Product Landing Page (Certification Proyect 4/5🎯)
-
+## Product Landing Page.
 <br>
 <br>
-
-### Landing Page (Proyecto de certificación 4/5. Creación propia 🎯)
+### Proyecto 17: Landing Page (Proyecto de certificación 4/5. Creación propia 🎯)
 
 <br>
 <br>
