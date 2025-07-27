@@ -1,10 +1,13 @@
 ## Product Landing Page.
 <br>
 <br>
+
 ### Proyecto 17: Landing Page (Proyecto de certificación 4/5. Creación propia 🎯)
+
 <br>
 <br>
 Diseño responsivo de una **Landing Page de Producto**, creado como proyecto de creación propia, parte de la certificación de FreeCodeCamp Responsive Web Design.
+
 <br>
 <br>
 Esta página simula el sitio web de un generador de contraseñas.
