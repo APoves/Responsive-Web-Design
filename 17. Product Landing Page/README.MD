@@ -1,42 +1,55 @@
-# 🚀 Product Landing Page
+## Product Landing Page (Certification Proyect 4/5🎯)
 
-Diseño responsivo de una **Landing Page de Producto**, creado como parte del curso de FreeCodeCamp sobre Responsive Web Design.
+<br>
+<br>
 
-## 🧠 Descripción
+### Landing Page (Proyecto de certificación 4/5. Creación propia 🎯)
 
-Esta página simula el sitio web de una empresa ficticia que promociona un producto tecnológico. Está construida únicamente con HTML y CSS, aplicando principios de diseño responsivo, posicionamiento, y componentes semánticos.
+<br>
+<br>
 
-📦 Incluye:
-- Encabezado con logo y navegación fluida 🔗
-- Video incrustado del producto 📺
-- Formulario de suscripción ✉️
-- Sección de características y beneficios 💡
-- Pie de página informativo 📜
+Diseño responsivo de una **Landing Page de Producto**, creado como proyecto de creación propia, parte de la certificación de FreeCodeCamp Responsive Web Design.
+<br>
+<br>
+<br>
 
-## 📱 Responsivo
 
+Esta página simula el sitio web de un generador de contraseñas.
+<br>
+Construida únicamente con HTML y CSS, aplicando principios de diseño responsivo, posicionamiento, y componentes semánticos.
+<br>
+<br>
+
+## 🛠️ Tecnologías:
+- HTML5.
+- CSS3 (Flexbox, Grid).
+- Fuentes externas vía Google Fonts.
+- Iconos de Fonts Awesome.
+- Media queries.
+
+<br>
 Este proyecto se adapta correctamente a:
-- Dispositivos móviles 📱
-- Tablets 📲
-- Escritorios 🖥️
-
-## 🛠️ Tecnologías
-
-- HTML5
-- CSS3 (Flexbox, Grid)
-- Fuentes externas vía Google Fonts
-- Media queries
+- Dispositivos móviles.
+- Tablets.
+- Escritorios.
+<br>
 
 ## 🌐 Demo
-
 Puedes verlo desplegado aquí 👉 [VERCEL - Landing Page](https://<TU-URL>.vercel.app)  
-_(Asegúrate de reemplazar el enlace una vez desplegado)_
+<br>
 
 ## 📁 Estructura del proyecto
 
-```text
 /
 ├── index.html
 ├── styles.css
 ├── images/
 └── README.md
+
+<br>
+Portfolio Web: https://aurorapoves.vercel.app/
+<br>
+<br>
+LinkedIn: www.linkedin.com/in/auroramarinapoves
+<br>
+Github: https://github.com/APoves
