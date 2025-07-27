@@ -2,7 +2,10 @@
 ### Proyecto 17: Landing Page (Proyecto de certificación 4/5. Creación propia 🎯)
 <br>
 <br>
-Diseño responsivo de una **Landing Page de Producto**, creado como proyecto de creación propia, parte de la certificación de FreeCodeCamp Responsive Web Design.
+Diseño responsivo de una **Landing Page de Producto**, creado como proyecto de creación propia
+<br>
+Este mini-proyecto es parte de la certificación de FreeCodeCamp 'Responsive Web Design'.
+ Debido a pretensiones de lanzarlo como proyecto totalmente funcional, ha sido modificado levemente respecto a los requisitos que se pedían para la certificación.
 
 <br>
 <br>
@@ -25,7 +28,7 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 ## Demo:
 <br>
 
-Puedes verlo desplegado aquí 👉 [VERCEL - Landing Page](https://instantpasswordgenerator.vercel.app/)  
+Puedes verlo desplegado aquí 👉 [Instant Password Generator](https://instantpasswordgenerator.vercel.app/)  
 <br>
 
 ## Estructura del proyecto
