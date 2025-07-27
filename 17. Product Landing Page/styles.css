@@ -39,6 +39,7 @@ section {
   overflow: hidden;
 }
 
+/* Typography */
 h1, h2, h3 {
   font-family: 'Exo 2', sans-serif;
   color: var(--letters);
@@ -104,7 +105,7 @@ p {
   margin: 0 auto;
   padding: 0 1rem;
 }
-
+ /* Cuadro */
 .logo {
   display: flex;
   align-items: center;
@@ -123,6 +124,7 @@ p {
   color: var(--primary);
 }
 
+/* Nav */
 #nav-bar ul {
   display: flex;
   list-style: none;
@@ -158,6 +160,7 @@ p {
   overflow: hidden;
 }
 
+/* Background hero */
 #hero-section::before {
   content: '';
   position: absolute;
@@ -167,6 +170,7 @@ p {
   height: 100%;
 }
 
+/* */
 #hero-title {
   color: var(--light) !important;
   font-family: 'Orbitron', sans-serif;
@@ -223,6 +227,7 @@ p {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
+/*Slider */
 .slider-container {
   margin-bottom: 1.5rem;
 }
@@ -282,6 +287,7 @@ p {
   border: none;
 }
 
+/* Password */
 .password-display {
   display: flex;
   gap: 0.8rem;
@@ -306,6 +312,7 @@ p {
   box-shadow: 0 0 0 3px rgba(6, 80, 132, 0.2);
 }
 
+/* Buttons + */
 .copy-button {
   display: flex;
   align-items: center;
@@ -364,7 +371,7 @@ p {
   filter: brightness(0.9);
 }
 
-
+/* Options */ 
 .password-options {
   background: var(--light);
   padding: 1.5rem;
@@ -503,6 +510,7 @@ margin: 0;
   margin-right: 0.5rem;
 }
 
+
 /* FORM */
 #form {
   background: var(--light);
@@ -555,6 +563,7 @@ margin: 0;
   resize: vertical;
 }
 
+/* Button */
 #submit {
   background: var(--primary);
   color: white;
