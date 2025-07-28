@@ -24,19 +24,19 @@ body {
 }
         
 .container {
-  margin: 0 auto;
-  padding: 1rem;
   width: 90%;
   max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
 }
 
 section {
   background: white;
   margin: 2rem 0;
   padding: 2rem;
+  overflow: hidden;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
   border-radius: 15px;
-  overflow: hidden;
 }
 
 /* Typography */
@@ -54,19 +54,19 @@ h1 {
 h2 {
   font-size: clamp(1.8rem, 4vw, 2.2rem);
   margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
   color: var(--primary);
   position: relative;
-  padding-bottom: 0.5rem;
 }
 
 /* Green line under the titles + border-left on instructions*/
 h2::after {
+  width: 80px;
+  height: 4px;
   content: '';
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 80px;
-  height: 4px;
   background: var(--secondary);
   border-radius: 2px;
 }
@@ -79,8 +79,8 @@ h3 {
 p {
   font-size: clamp(1rem, 2vw, 1.1rem);
   margin-bottom: 1rem;
-  line-height: 1.7;
   text-align: justify;
+  line-height: 1.7;
 }
 
 
@@ -90,37 +90,37 @@ p {
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 1000;
   background: rgba(255, 255, 255, 0.95);
+  padding: 0.8rem 0;
+  z-index: 1000;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(10px);
-  padding: 0.8rem 0;
 }
 
 .header-container {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1200px;
   margin: 0 auto;
   padding: 0 1rem;
+  align-items: center;
+  max-width: 1200px;
+  justify-content: space-between;
 }
  /* Cuadro */
 .logo {
   display: flex;
-  align-items: center;
   gap: 0.8rem;
+   align-items: center;
 }
 
 .logo-img {
-  height: 50px;
   width: auto;
+  height: 50px;
 }
 
 .logo-text {
-  font-family: 'Orbitron', sans-serif;
-  font-weight: 700;
   font-size: 1.4rem;
+  font-weight: 700;
+  font-family: 'Orbitron', sans-serif;
   color: var(--primary);
 }
 
@@ -132,42 +132,42 @@ p {
 }
 
 #nav-bar li a {
-  text-decoration: none;
-  color: var(--letters);
   font-weight: 600;
   padding: 0.5rem 1rem;
   border-radius: 6px;
-  transition: all 0.3s ease;
   font-size: 1.1rem;
+  text-decoration: none;
+  color: var(--letters);
+  transition: all 0.3s ease;
 }
 
 #nav-bar li a:hover,
 #nav-bar li a:focus {
-  background: var(--accent);
   color: var(--letters);
+  background: var(--accent);
 }
         
 
 /* HERO */
 #hero-section {
   text-align: center;
+  position: relative;
+  margin-top: 0;
   padding: 3rem 0;
   background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
   color: white;
   border-radius: 15px;
-  margin-top: 0;
-  position: relative;
   overflow: hidden;
 }
 
 /* Background hero */
 #hero-section::before {
   content: '';
+  width: 100%;
+  height: 100%;
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
 }
 
 /* */
@@ -182,32 +182,38 @@ p {
 }
 
 #hero-subtitle {
+  margin: 0 auto 2rem;
+  max-width: 800px;
+  position: relative;
   color: var(--light) !important;
   font-size: clamp(1.2rem, 3vw, 1.8rem);
-  max-width: 800px;
-  margin: 0 auto 2rem;
-  position: relative;
   z-index: 1;
 }
 
 
 /* GENERATOR SECTION */
+
+.password-controls {
+  display: grid;
+  max-width: 700px;
+  margin: 0 auto;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
 #generator_section {
   padding: 2.5rem;
 }
 
-.password-controls {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.5rem;
-  max-width: 700px;
-  margin: 0 auto;
-}
-
 /* Botones principales */
 .btn_generate {
-  color: white;
   background: var(--primary);
+  color: white;
+}
+
+.btn_newpassword {
+  background: var(--secondary);
+  color: white;
 }
 
 .btn_generate:hover {
@@ -216,15 +222,10 @@ p {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
-.btn_newpassword {
-  background: var(--secondary);
-  color: white;
-}
-
 .btn_newpassword:hover {
   background: #0c7a7d;
-  transform: translateY(-3px);
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transform: translateY(-3px);
 }
 
 /*Slider */
@@ -233,58 +234,59 @@ p {
 }
 
 .slider-label {
+  margin-bottom: 0.8rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 0.8rem;
 }
 
 .slider-label span {
   font-weight: 600;
-  color: var(--primary);
   font-size: 1.1rem;
+  color: var(--primary);
 }
 
 #length_output {
+  min-width: 45px;
+  padding: 0.3rem 0.8rem;
   font-weight: 700;
   font-size: 1.2rem;
   color: var(--primary);
   background: var(--light);
-  padding: 0.3rem 0.8rem;
   border-radius: 20px;
-  min-width: 45px;
   text-align: center;
 }
 
 .slider-length {
   width: 100%;
   height: 10px;
-  -webkit-appearance: none;
-  appearance: none;
   background: linear-gradient(to right, var(--accent) 0%, var(--secondary) 100%);
   border-radius: 5px;
   outline: none;
+  appearance: none;
+  -webkit-appearance: none;
 }
 
 .slider-length::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  appearance: none;
   width: 22px;
   height: 22px;
+  -webkit-appearance: none;
+  appearance: none;
   border-radius: 50%;
   background: var(--primary);
   cursor: pointer;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
 }
 
 .slider-length::-moz-range-thumb {
   width: 22px;
   height: 22px;
-  border-radius: 50%;
   background: var(--primary);
-  cursor: pointer;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  border-radius: 50%;
   border: none;
+  cursor: pointer;
 }
 
 /* Password */
@@ -640,14 +642,48 @@ footer {
 
 @media (max-width: 768px) {
   .header-container {
-    flex-direction: column;
-    gap: 1rem;
+    flex-direction: row;
+    gap: 0.5rem;
+    padding: 0.3rem 1rem;
   }
 
   #nav-bar ul {
     gap: 0.8rem;
   }
 
+  #nav-bar li a {
+    font-size: 0.85rem;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0.3rem 0.5rem;
+  }
+
+  body {
+    padding-top: 70px;
+  }
+
+  logo-text {
+    font-size: 1.1rem;
+    white-space: nowrap;
+  }
+
+  #hero-section {
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+  }
+
+  #hero-title {
+    margin-top: 0.5rem;
+  }
+
+  #nav-bar li:nth-child(1) a {
+    display: block;
+    width: 80px;
+    line-height: 1.2;
+    white-space: normal;
+  }
+
+  /* Buttons*/
   .button-group {
     flex-direction: column;
     gap: 0.8rem;
@@ -658,18 +694,57 @@ footer {
     justify-content: center;
   }
 
+  .copy-button {
+    width: 100%;
+    height: auto;
+    padding: 0.8rem;
+  }
+
   .section {
     padding: 1.5rem;
   }
 
+    /* Instructions */
   .steps-container {
-    flex-wrap: nowrap;
-    overflow-x: visible;
+    /*flex-wrap: nowrap;
+    overflow-x: visible;*/
+    grid-template-columns: 1fr;
   }
 
   .step-card {
-    flex: 1;
-    min-width: 0;
+    /*flex: 1;*/
+    min-width: auto;
+    min-width: auto;
+  }
+
+  #generator_section {
+    padding: 1.5rem;
+  }
+  
+  .password-options {
+    padding: 1rem;
+  }
+  
+  .options-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .password-controls {
+    gap: 1rem;
+  }
+
+  .password-display {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  /* FAQ*/
+  .faq-section {
+    padding: 1.5rem;
+  }
+  
+  .faq-question {
+    font-size: 1.1rem;
   }
 }
 
@@ -680,25 +755,115 @@ footer {
     gap: 1.5rem;
   }
 
-
+/*MÓBILE*/
+  :root {
+  --nav-height-mobile: 60px;
+}
 /* Big mobile + mini tablet*/
 @media (max-width: 600px) {
+    h1, h2 {
+    font-size: clamp(1.8rem, 5vw, 2.4rem);
+  }
+
+  section {
+    margin: 1rem 0;
+    padding: 1.2rem;
+  }
+
+  #header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 0.4rem 1rem;
+    z-index: 100;
+    backdrop-filter: blur(8px);
+  }
+  
   .header-container {
     gap: 0.5rem; }
 
+  .container {
+    padding-top: calc(var(--nav-height-mobile) + 1rem);
+  }
+
+  #hero-section {
+    padding-top: calc(var(--nav-height-mobile) + 1.5rem);
+  }
+  
   .step-card {
-    padding: 1rem; }
+    padding: 0.8rem; }
+
+  .steps-container {
+    gap: 1rem;
+  }  
 
   .btn {
     font-size: 1.05rem;
     padding: 0.7rem 1.2rem; }
+
+  .logo-text {
+    font-size: 1.1rem;
+  }
+
+  #nav-bar ul {
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #nav-bar li a {
+    font-size: 0.9rem;
+    line-height: 1.2;
+    padding: 0.3rem 0.6rem;
+  }
+
+  /*Generator section*/
+  .password-controls {
+    padding: 0 0.8rem;
+    gap: 1rem;
+  }
+  .slider-length {
+    width: 100%;
+  }
+  .password-display {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .copy-button {
+    width: 100%;
+    padding: 0.6rem;
+  }
+  .button-group {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .button-group .btn {
+    width: 100%;
+    font-size: 1rem;
+    padding: 0.6rem 1rem;
+  }
+  .options-grid {
+    grid-template-columns: 1fr;
+  }
+
 }
 
 
 /* Mobile*/
 @media (max-width: 480px) {
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
   .password-display {
     flex-direction: column; 
+  }
+
+  .logo-text {
+    font-size: 1rem;
   }
 
   .copy-button {
@@ -710,6 +875,54 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
   }
+
+   #nav-bar li a {
+    font-size: 0.8rem;
+  }
+
+  #hero-title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  #hero-subtitle {
+    font-size: 1.1rem;
+  }
+
+  section {
+    padding: 1.5rem 1rem;
+  }
+
+  /* Generator + buttons */
+
+  .password-box {
+    padding: 0.7rem;
+    font-size: 1rem;
+  }
+
+  .btn {
+    padding: 0.7rem;
+    font-size: 1rem;
+  }
+
+  .slider-label span {
+    font-size: 1rem;
+  }
+
+  /* Instructiona */
+  .step-card {
+    padding: 1.2rem;
+  }
+
+  .step-icon {
+    font-size: 1.5rem;
+  }
+
+
+  .form-container {
+    padding: 0.3rem;
+  }
+
 }
 
 /* Small mobiles*/
@@ -732,11 +945,33 @@ footer {
   h1, h2 { 
     font-size:1.2rem;
   }
-  section, .container, .btn, .copy-button, .password-box {
+  .btn, .copy-button, .password-box {
     font-size: 0.95rem;
     padding: 0.5rem;
   }
   .options-grid {
     grid-template-columns: 1fr;
   }
+
+  .logo-text {
+    font-size: 0.9rem;
+  }
+  
+  #nav-bar li a {
+    font-size: 0.75rem;
+    padding: 0.2rem 0.3rem;
+  }
+  
+  #hero-title {
+    font-size: 1.8rem;
+  }
+  
+  #hero-subtitle {
+    font-size: 1rem;
+  }
+  
+  section, .container {
+    padding: 0.8rem;
+  }
+
 }}
