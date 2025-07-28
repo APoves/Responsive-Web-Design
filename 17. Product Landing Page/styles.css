@@ -872,12 +872,17 @@ footer {
   }
 
   #nav-bar ul {
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 5px;
     justify-content: center;
   }
 
    #nav-bar li a {
     font-size: 0.8rem;
+    white-space: nowrap;
+    padding: 0.3rem 0.6rem;
   }
 
   #hero-title {
@@ -909,7 +914,7 @@ footer {
     font-size: 1rem;
   }
 
-  /* Instructiona */
+  /* Instructions */
   .step-card {
     padding: 1.2rem;
   }
@@ -956,10 +961,14 @@ footer {
   .logo-text {
     font-size: 0.9rem;
   }
+
+  #nav-bar ul {
+    gap: 0.3rem;
+  }
   
   #nav-bar li a {
     font-size: 0.75rem;
-    padding: 0.2rem 0.3rem;
+    padding: 0.2rem 0.25rem;
   }
   
   #hero-title {
