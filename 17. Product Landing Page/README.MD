@@ -52,11 +52,6 @@ LinkedIn: www.linkedin.com/in/auroramarinapoves
 Github: https://github.com/APoves
 <br>
 <br>
-Password Generator Landind Page:
-![Password Generator Landing Page](https://github.com/APoves/Responsive-Web-Design/blob/main/17.%20Product%20Landing%20Page/passwordgenerator.jpg)
 
 Password Generator Landind Page:
 ![Password Generator Landind Page](https://github.com/APoves/Responsive-Web-Design/blob/main/17.%20Product%20Landing%20Page/passwordgenerator.png)
-
-Password Generator Landind Page:
-![Password Generator Landind Pag](https://github.com/APoves/Responsive-Web-Design/blob/main/17.%20Product%20Landing%20Page/passwordgenerator.png)
