@@ -34,6 +34,8 @@ El fin de dicha certificación, es obtener, de manera interactiva, el conocimien
 | 15 Learn CSS Variables by Building a Skyline |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline)| Aprende variables de CSS construyendo el skyline de una ciudad |
 | 16. Learn CSS Grid by Building a Magazine |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/16.%20Learn%20CSS%20Grid%20by%20Building%20a%20Magazine)| Aprende Grid con CSS construyendo una Revista |
 
+
+https://github.com/APoves/Responsive-Web-Design/tree/main/18.%20Learn%20CSS%20Animation%20by%20Building%20a%20Ferris%20Wheel
  
 ### 🛠 Herramientas y tecnologías utilizadas
 
