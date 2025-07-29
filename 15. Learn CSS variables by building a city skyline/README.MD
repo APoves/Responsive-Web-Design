@@ -1,10 +1,6 @@
 ## Learn CSS Variables by building a City Skyline
 
-<br>
-
 ### Aprende variables de CSS construyendo el skyline de una ciudad
-
-<br>
 <br>
 Proyecto 15: Aprende variables de CSS construyendo el skyline de una ciudad.
 <br>
