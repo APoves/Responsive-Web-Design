@@ -209,11 +209,14 @@ p {
 .btn_generate {
   background: var(--primary);
   color: white;
+  font-size: 1.15rem;
 }
+
 
 .btn_newpassword {
   background: var(--secondary);
   color: white;
+  font-size: 1.15rem;
 }
 
 .btn_generate:hover {
@@ -516,7 +519,6 @@ vertical-align: middle;
 /* FORM */
 #form {
   background: var(--light);
-  padding: 1.2rem 1rem;
   padding: 2rem;
   border-radius: 10px;
   width: 100%;
@@ -575,7 +577,6 @@ vertical-align: middle;
   background: var(--primary);
   color: white;
   padding: 0.5rem 1.3rem;
-  font-size: 1.08rem;
   font-weight: 600;
   border: none;
   border-radius: 8px;
