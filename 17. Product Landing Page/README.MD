@@ -32,10 +32,14 @@ Puedes verlo desplegado aquí 👉 [Instant Password Generator](https://instantp
 <br>
 
 ## Estructura del proyecto
-/
+|
+<br>
 ├── index.html
+<br>
 ├── styles.css
+<br>
 ├── images/
+<br>
 └── README.md
 
 <br>
