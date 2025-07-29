@@ -44,14 +44,13 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 
 <br>
 <br>
-![Landing Page Password Generator](https://github.com/APoves/Responsive-Web-Design/blob/main/17.%20Product%20Landing%20Page/passwordgenerator.png)
-
-
-<br>
-<br>
 Portfolio Web: https://aurorapoves.vercel.app/
 <br>
 <br>
 LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
 Github: https://github.com/APoves
+<br>
+<br>
+Password Generator Landind Page:
+![Password Generator Landing Page](https://github.com/APoves/Responsive-Web-Design/blob/main/17.%20Product%20Landing%20Page/passwordgenerator.png)
