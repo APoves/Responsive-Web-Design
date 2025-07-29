@@ -2,9 +2,9 @@
 ### Proyecto 17: Landing Page (Proyecto de certificación 4/5. Creación propia 🎯)
 <br>
 <br>
-Diseño responsivo de una Landing Page, como proyecto de creación propia.
+  Diseño responsivo de una Landing Page, como proyecto de creación propia.
 <br>
-Este mini-proyecto es parte de la certificación de FreeCodeCamp 'Responsive Web Design'.
+  Este mini-proyecto es parte de la certificación de FreeCodeCamp 'Responsive Web Design'.
 <br>
 <br>
   Debido a pretensiones de lanzarlo como proyecto totalmente funcional, ha sido modificado levemente respecto a los requisitos que se pedían para la certificación.
@@ -32,7 +32,7 @@ Puedes verlo desplegado aquí 👉 [Instant Password Generator](https://instantp
 <br>
 
 ## Estructura del proyecto
-|
+ |
 <br>
 ├── index.html
 <br>
