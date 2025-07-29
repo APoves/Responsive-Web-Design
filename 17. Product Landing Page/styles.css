@@ -517,6 +517,7 @@ vertical-align: middle;
 #form {
   background: var(--light);
   padding: 1.2rem 1rem;
+  padding: 2rem;
   border-radius: 10px;
   width: 100%;
   max-width: 1400px;
