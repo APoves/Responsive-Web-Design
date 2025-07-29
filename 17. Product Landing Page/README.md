@@ -28,7 +28,7 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 <br>
 
 ## Demo:
-Puedes verlo desplegado aquí 👉 [Instant Password Generator](https://instantpasswordgenerator.vercel.app/)  
+[Password Generator](https://instantpasswordgenerator.vercel.app/)  
 <br>
 
 ## Estructura del proyecto
@@ -44,7 +44,11 @@ Puedes verlo desplegado aquí 👉 [Instant Password Generator](https://instantp
 
 <br>
 <br>
+![Landing Page Password Generator](https://github.com/APoves/Responsive-Web-Design/blob/main/17.%20Product%20Landing%20Page/passwordgenerator.png)
 
+
+<br>
+<br>
 Portfolio Web: https://aurorapoves.vercel.app/
 <br>
 <br>
