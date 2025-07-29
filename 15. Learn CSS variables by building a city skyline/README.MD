@@ -18,14 +18,10 @@ Github: https://github.com/APoves
 
 <br>
 <br>
-
 <br>
-
 
 Skyline día:
 ![Day skyline](https://github.com/APoves/Responsive-Web-Design/blob/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline/dayskyline.jpg)
 <br>
 Skyline noche (con media queries):
 ![Night skyline](https://github.com/APoves/Responsive-Web-Design/blob/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline/nightskylineMQ.jpg)
-
-
