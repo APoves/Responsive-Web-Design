@@ -5,23 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Password Generator" />
     <title>Password Generator</title>
-    <link rel="stylesheet" href="styles.css">
+    <!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Password Generator" />
+    <title>Password Generator</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
 
   </head>
   <body>
     <header id="header">
       <div class="header-container">
         <div class="logo">
-          <div class="logo-text">Password Generator</div>
+          <img id="header-img" src="https://svgsilh.com/png-512/538721.png" alt="Password Generator Logo">
         </div>
         <nav id="nav-bar">
           <ul>
             <li><a href="#generator_section" class="nav-link">Generador</a></li>
-            <li><a href="#instrucciones_de_uso" class="nav-link">Uso</a></li>
+            <li><a href="#instrucciones_de_uso" class="nav-link">Instrucciones</a></li>
             <li><a href="#faqs" class="nav-link">FAQs</a></li>
           </ul>
           </nav>
@@ -32,6 +39,14 @@
       <section id="hero-section">
         <h1 id="hero-title">Password Generator</h1>
         <h2 id="hero-subtitle">Tus contraseñas seguras en un click</h2>
+      </section>
+      
+      <!-- Sección de video añadida -->
+      <section id="video-section">
+        <h2>Importancia de las contraseñas seguras</h2>
+        <div id="video-container">
+          <iframe id="video" src="https://www.youtube.com/embed/9H7P7BvCymg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
       </section>
         
       <section id="generator_section">
@@ -224,19 +239,19 @@
         </div>
       </section>
 
-      <section id="form">
+      <section id="form_">
         <h2>¿Tienes alguna duda o sugerencia?</h2>
-        <form id="form" class="form-container" method="post" action=''>
+        <form id="form" class="form-container" method="post" action="https://www.freecodecamp.com/email-submit">
           <div class="form-group">
             <label for="email">Email:</label>
             <input id="email" name="email" type="email" placeholder="Tu email" required>
           </div>
 
           <div class="form-group">
-            <label for="suggestion">Duda o sugerencia:</label>
+            <label for="suggestion">Tu mensaje:</label>
             <textarea id="suggestion" name="suggestion" placeholder="Introduce tus dudas o sugerencias"></textarea>
           </div>
-          <button type="submit" id="submit" class="btn btn_generate">Enviar mensaje</button>
+          <input type="submit" id="submit" class="btn btn_generate" value="Enviar mensaje">
         </form>
       </section>
     </main>
@@ -244,7 +259,6 @@
     <footer>
       <div class="footer-content">
             <p>Password Generator - Generador de contraseñas seguras</p>
-            <p>Aurora Poves Serradilla 2025</p>
         </div>
     </footer>
   </body>
