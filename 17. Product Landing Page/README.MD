@@ -41,6 +41,6 @@ Github: https://github.com/APoves
 <br>
 
 Pasword Landing Page
-![Pasword Landing Page](https://github.com/APoves/Responsive-Web-Design/blob/main/18.%20Learn%20CSS%20Animation%20by%20Building%20a%20Ferris%20Wheel/password%20landing%20page.jpg)
+![Pasword Landing Page](https://github.com/APoves/Responsive-Web-Design/blob/main/17.%20Product%20Landing%20Page/password%20landing%20page.jpg)
 <br>
 
