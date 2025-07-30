@@ -4,18 +4,13 @@
 <br>
   Diseño responsivo de una Landing Page, como proyecto de creación propia.
 <br>
-  Este mini-proyecto es parte de la certificación de FreeCodeCamp 'Responsive Web Design'.
+  Este mini-proyecto es parte de la certificación de FreeCodeCamp 'Responsive Web Design', simulando el sitio web de un generador de contraseñas.
 <br>
-<br>
-  Debido a pretensiones de lanzarlo como proyecto totalmente funcional, ha sido modificado levemente respecto a los requisitos que se pedían para la certificación.
-
-<br>
-<br>
-Esta página simula el sitio web de un generador de contraseñas.
 <br>
 Construida únicamente con HTML y CSS, aplicando principios de diseño responsivo, posicionamiento, y componentes semánticos.
 <br>
 <br>
+> ⚠️ **Nota:** Este proyecto es una simple simulación realizada con **HTML** y **CSS**, por lo que no es un proyecto funcional.
 
 ## Tecnologías:
 - HTML5.
@@ -23,24 +18,6 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 - Fuentes externas vía Google Fonts.
 - Iconos de Fonts Awesome.
 - Media queries.
-<br>
-
-<br>
-
-## Demo:
-[Password Generator](https://instantpasswordgenerator.vercel.app/)  
-<br>
-
-## Estructura del proyecto
- |
-<br>
-├── index.html
-<br>
-├── styles.css
-<br>
-├── images/
-<br>
-└── README.md
 
 <br>
 <br>
