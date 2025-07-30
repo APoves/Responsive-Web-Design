@@ -21,6 +21,7 @@ Github: https://github.com/APoves
 <br>
 
 Magazine
+
 ![Magazine](https://github.com/APoves/Responsive-Web-Design/blob/main/16.%20Learn%20CSS%20Grid%20by%20Building%20a%20Magazine/Magazine.png)
 <br>
 
