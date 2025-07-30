@@ -14,9 +14,7 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 <details>
   <summary>📌 Nota sobre funcionalidad del proyecto</summary>
   <p>
-
-    Este proyecto es una simulación sencilla realizada con **HTML** y **CSS**, por lo que **no** es un proyecto funcional. 
-
+    Este proyecto es una simulación sencilla realizada con <strong>HTML y CSS</strong>, por lo que <strong>no</strong> es un proyecto funcional. 
   </p>
 </details>
 
