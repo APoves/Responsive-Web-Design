@@ -12,7 +12,7 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 <br>
 
 <details>
-  <summary>📌 Haz clic aquí para leer la nota importante</summary>
+  <summary>📌 Nota sobre funcionalidad del proyecto</summary>
   <p>
 
     Este proyecto es una simulación sencilla realizada con **HTML** y **CSS**, por lo que **no** es un proyecto funcional. 
