@@ -10,7 +10,12 @@
 Construida únicamente con HTML y CSS, aplicando principios de diseño responsivo, posicionamiento, y componentes semánticos.
 <br>
 <br>
-> ⚠️ **Nota:** Este proyecto es una simple simulación realizada con **HTML** y **CSS**, por lo que no es un proyecto funcional.
+
+| 🟡 **Nota** |
+|------------|
+| Este proyecto es una simulación sencilla realizada con **HTML** y **CSS**, por lo que no es un proyecto funcional. |
+
+<br>
 
 ## Tecnologías:
 - HTML5.
