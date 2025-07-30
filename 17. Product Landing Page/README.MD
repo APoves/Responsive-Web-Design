@@ -2,9 +2,9 @@
 ### Proyecto 17: Landing Page (Proyecto de certificación 4/5. Creación propia 🎯)
 <br>
 <br>
-  Diseño responsivo de una Landing Page, como proyecto de creación propia.
+Diseño responsivo de una Landing Page, como proyecto de creación propia.
 <br>
-  Este mini-proyecto es parte de la certificación de FreeCodeCamp 'Responsive Web Design', simulando el sitio web de un generador de contraseñas.
+Este mini-proyecto es parte de la certificación de FreeCodeCamp 'Responsive Web Design', siendo un proyecto de creación totalmente propia, simulando el sitio web de un generador de contraseñas.
 <br>
 <br>
 Construida únicamente con HTML y CSS, aplicando principios de diseño responsivo, posicionamiento, y componentes semánticos.
@@ -14,7 +14,9 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 <details>
   <summary>📌 Nota sobre funcionalidad del proyecto</summary>
   <p>
+
     Este proyecto es una simulación sencilla realizada con <strong>HTML y CSS</strong>, por lo que <strong>no</strong> es un proyecto funcional. 
+
   </p>
 </details>
 
