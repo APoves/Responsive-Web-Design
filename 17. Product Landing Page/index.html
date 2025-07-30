@@ -1,260 +1,253 @@
 <!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Password Generator" />
-    <title>Password Generator</title>
-    <!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Password Generator" />
-    <title>Password Generator</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
-
-  </head>
-  <body>
-    <header id="header">
-      <div class="header-container">
-        <div class="logo">
-          <img id="header-img" src="https://svgsilh.com/png-512/538721.png" alt="Password Generator Logo">
+  <html lang="es">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="description" content="Password Generator" />
+      <title>Password Generator</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+      <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="styles.css">
+  
+    </head>
+    <body>
+      <header id="header">
+        <div class="header-container">
+          <div class="logo">
+            <img id="header-img" src="https://svgsilh.com/png-512/538721.png" alt="Password Generator Logo">
+          </div>
+          <nav id="nav-bar">
+            <ul>
+              <li><a href="#generator_section" class="nav-link">Generador</a></li>
+              <li><a href="#instrucciones_de_uso" class="nav-link">Instrucciones</a></li>
+              <li><a href="#faqs" class="nav-link">FAQs</a></li>
+            </ul>
+            </nav>
         </div>
-        <nav id="nav-bar">
-          <ul>
-            <li><a href="#generator_section" class="nav-link">Generador</a></li>
-            <li><a href="#instrucciones_de_uso" class="nav-link">Instrucciones</a></li>
-            <li><a href="#faqs" class="nav-link">FAQs</a></li>
-          </ul>
-          </nav>
-      </div>
-    </header>
-
-    <main class="container">
-      <section id="hero-section">
-        <h1 id="hero-title">Password Generator</h1>
-        <h2 id="hero-subtitle">Tus contraseñas seguras en un click</h2>
-      </section>
-      
-      <!-- Sección de video añadida -->
-      <section id="video-section">
-        <h2>Importancia de las contraseñas seguras</h2>
-        <div id="video-container">
-          <iframe id="video" src="https://www.youtube.com/embed/9H7P7BvCymg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-      </section>
+      </header>
+  
+      <main class="container">
+        <section id="hero-section">
+          <h1 id="hero-title">Password Generator</h1>
+          <h2 id="hero-subtitle">Tus contraseñas seguras en un click</h2>
+        </section>
         
-      <section id="generator_section">
-        <h2>Genera tu contraseña segura</h2>
-        <div class="password-controls">
-          <div class="slider-container">
-            <div class="slider-label">
-              <span>Longitud de la contraseña:</span>
-              <output id="length_output">12</output>
-            </div>
-              <input type="range" class="slider-length" id="password_length" min="8" max="32" value="12" step="1">
+        <!-- Sección de video añadida -->
+        <section id="video-section">
+          <h2>Importancia de las contraseñas seguras</h2>
+          <div id="video-container">
+            <iframe id="video" src="https://www.youtube.com/embed/9H7P7BvCymg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
-                
-          <div class="password-display">
-            <input type="text" id="password_result" readonly class="password-box" placeholder="Tu contraseña aparecerá aquí">
-            <button class="copy-button" id="copy_button" title="Copiar contraseña">
-              <i class="fas fa-copy"></i>
-            </button>
-          </div>
-                
-          <div class="button-group">
-            <button type="button" class="btn btn btn_generate" id="generator_button">
-              <i class="fas fa-key"></i> Generar contraseña
-            </button>
-            <button type="button" class="btn btn_newpassword" id="update_password">
-              <i class="fas fa-sync-alt"></i> Nueva contraseña
-            </button>
-          </div>
-
-          <div class="password-options">
-            <h3>Personaliza tu contraseña</h3>
-            <div class="options-grid">
-              <label class="option-item">
-                <input type="checkbox" id="upper_case" class="password-options" checked>
-                <span>Mayúsculas (A-Z)</span>
-              </label>
-              <label class="option-item">
-                <input type="checkbox" id="lower_case" class="password-options" checked>
-                <span>Minúsculas (a-z)</span>
-              </label>
-              <label class="option-item">
-                <input type="checkbox" id="numbers" class="password-options" checked>
-                <span>Números (0-9)</span>
-              </label>
-              <label class="option-item">
-                <input type="checkbox" id="symbols" class="password-options" checked>
-                <span>Símbolos (!@#$...)</span>
-              </label>
-              <label class="option-item">
-                <input type="checkbox" id="all_characters" class="password-options">
-                <span>Todos los caracteres</span>
-              </label>
+        </section>
+          
+        <section id="generator_section">
+          <h2>Genera tu contraseña segura</h2>
+          <div class="password-controls">
+            <div class="slider-container">
+              <div class="slider-label">
+                <span>Longitud de la contraseña:</span>
+                <output id="length_output">12</output>
+              </div>
+                <input type="range" class="slider-length" id="password_length" min="8" max="32" value="12" step="1">
             </div>
-          </div>
-        </div>
-      </section>
-
-      <section id="instrucciones_de_uso" class="instrucciones">
-        <h2>Cómo utilizar el generador de contraseñas</h2>
-        <div class="steps-container">
-          <div class="step-card">
-            <div class="step-icon"><i class="fas fa-sliders-h"></i></div>
-              <h3>Paso 1: Ajusta la longitud</h3>
-              <p>Utiliza el control de la barra deslizante para seleccionar la longitud de tu contraseña.</p>
+                  
+            <div class="password-display">
+              <input type="text" id="password_result" readonly class="password-box" placeholder="Tu contraseña aparecerá aquí">
+              <button class="copy-button" id="copy_button" title="Copiar contraseña">
+                <i class="fas fa-copy"></i>
+              </button>
             </div>
-            <div class="step-card">
-              <div class="step-icon"><i class="fas fa-check-circle"></i></div>
-                <h3>Paso 2: Define las características</h3>
-                <p>Elige las características y tipos de caracteres debe incluir tu contraseña para mayor seguridad.</p>
+                  
+            <div class="button-group">
+              <button type="button" class="btn btn btn_generate" id="generator_button">
+                <i class="fas fa-key"></i> Generar contraseña
+              </button>
+              <button type="button" class="btn btn_newpassword" id="update_password">
+                <i class="fas fa-sync-alt"></i> Nueva contraseña
+              </button>
             </div>
-            <div class="step-card">
-              <div class="step-icon"><i class="fas fa-bolt"></i></div>
-                <h3>Paso 3: Genera y copia</h3>
-                <p>Haz clic en "Generar contraseña", cópiala o crea una nueva.</p>
+  
+            <div class="password-options">
+              <h3>Personaliza tu contraseña</h3>
+              <div class="options-grid">
+                <label class="option-item">
+                  <input type="checkbox" id="upper_case" class="password-options" checked>
+                  <span>Mayúsculas (A-Z)</span>
+                </label>
+                <label class="option-item">
+                  <input type="checkbox" id="lower_case" class="password-options" checked>
+                  <span>Minúsculas (a-z)</span>
+                </label>
+                <label class="option-item">
+                  <input type="checkbox" id="numbers" class="password-options" checked>
+                  <span>Números (0-9)</span>
+                </label>
+                <label class="option-item">
+                  <input type="checkbox" id="symbols" class="password-options" checked>
+                  <span>Símbolos (!@#$...)</span>
+                </label>
+                <label class="option-item">
+                  <input type="checkbox" id="all_characters" class="password-options">
+                  <span>Todos los caracteres</span>
+                </label>
               </div>
             </div>
-      </section>
-
-      <section id="faqs" class="faq-section">
-        <h2>Preguntas Frecuentes</h2>
-        <div class="faq-container">
-          <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Qué es una contraseña segura?</summary>
-            <div class="faq-answer">
-              <p>Una contraseña segura cuenta con al menos 12 caracteres (siendo lo recomendable 16), generada de forma aleatoria y combinando mayúsculas, minúsculas, números y símbolos.</p>
-            </div>
-          </details>
-
-          <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Por qué debo utilizar contraseñas seguras?</summary>
-            <div class="faq-answer">
-              <p>Para evitar accesos no autorizados a cuentas, proteger datos personales, evitar robos de identidad, cumplir normativas de seguridad y prevenir daños.</p>
-            </div>
-          </details>
-                
-          <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Es seguro este generador de contraseñas?</summary>
-            <div class="faq-answer">
-              <p>Sí, es totalmente seguro y de confianza, ya que las contraseñas se generan de forma local en tu dispositivo, sin almacenarse nunca en nuestros servidores.</p>
-              <p>En cuanto a la contraseña generada aleatoriamente, cuantos más requisitos y longitud le apliques, más segura y robusta será.</p>
-            </div>
-          </details>
-
-          <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Es posible que hackeen mi contraseña?</summary>
-            <div class="faq-answer">
-              <p>Sí, mediante:</p>
-              <ul>
-                <li>Fuerza bruta(pruebas masivas de combinaciones).</li>
-                <li>Ataques de diccionario (uso de palabras comunes).</li>
-                <li>Credential stuffing (reutilización de credenciales filtradas).</li>
-                <li>Phishing (engaños para revelar claves).</li>
-                <li>Keyloggers (malware que registra teclas pulsadas).</li>
-                <li>Filtraciones de terceros (exposición en brechas de datos).</li>
-              </ul>
-            </div>
-          </details>
-
-          <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Cómo evito tener contraseñas vulnerables?</summary>
-            <div class="faq-answer">
-              <ul>
-                <li>Utiliza un gestor de contraseñas con cifrado de extremo a extremo.</li>
-                <li>No reutilices contraseñas (una clave única por cuenta).</li>
-                <li>Activa la autenticación de dos factores.</li>
-                <li>Cambia y renueva contraseñas solo tras brechas de seguridad (no periódicamente).</li>
-              </ul>
-            </div>
-          </details>
-
-          <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> Consejos para crear una contraseña segura</summary>
-            <div class="faq-answer">
-              <ol>
-                <li>Utiliza 'frases de paso' (4 o más palabras aleatorias, con más de 16 caracteres en total, como por ejemplo "MesaVacíoSolImpresora").</li>
-                <li>Añade símbolos, letras y números, aplica sustituciones impredecibles y dale complejidad (por ejemplo "Mesa!Vacío6Sol?Impresora").</li>
-                <li>Evita sustituciones predecibles (ej. "a" por "@" o la "i" por "1"), ya que los atacantes son conscientes de ello.</li>
-              </ol>
-            </div>
-          </details>
-
+          </div>
+        </section>
+  
+        <section id="instrucciones_de_uso" class="instrucciones">
+          <h2>Cómo utilizar el generador de contraseñas</h2>
+          <div class="steps-container">
+            <div class="step-card">
+              <div class="step-icon"><i class="fas fa-sliders-h"></i></div>
+                <h3>Paso 1: Ajusta la longitud</h3>
+                <p>Utiliza el control de la barra deslizante para seleccionar la longitud de tu contraseña.</p>
+              </div>
+              <div class="step-card">
+                <div class="step-icon"><i class="fas fa-check-circle"></i></div>
+                  <h3>Paso 2: Define las características</h3>
+                  <p>Elige las características y tipos de caracteres debe incluir tu contraseña para mayor seguridad.</p>
+              </div>
+              <div class="step-card">
+                <div class="step-icon"><i class="fas fa-bolt"></i></div>
+                  <h3>Paso 3: Genera y copia</h3>
+                  <p>Haz clic en "Generar contraseña", cópiala o crea una nueva.</p>
+                </div>
+              </div>
+        </section>
+  
+        <section id="faqs" class="faq-section">
+          <h2>Preguntas Frecuentes</h2>
+          <div class="faq-container">
             <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> Riesgos de no contar con contraseñas seguras</summary>
-            <div class="faq-answer">
-              <ul>
-                <li>Robo y suplantación de identidad.</li>
-                <li>Pérdida de fondos en cuentas bancarias.</li>
-                <li>Filtración de datos sensibles (fotos, documentos).</li>
-                <li>Daño reputacional (redes sociales o emails comprometidos).</li>
-                <li>Compromiso de contactos (ataques a tu lista de contactos).</li>
-              </ul>
-            </div>
-          </details>
-
-          <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Guardáis las contraseñas generadas?</summary>
-            <div class="faq-answer">
-              <p>No, en ningún momento. Las contraseñas se generan y procesan solo en tu dispositivo. Nunca llegan a nuestros servidores.</p>
-              <p>Una vez generada la contraseña, tú eres la persona responsable de guardalas en un gestor de contraseñas.</p>
-            </div>
-          </details>
-
-          <details class="faq-item">
-             <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Cuáles son las contraseñas más vulnerables o las más utilizadas?</summary>
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Qué es una contraseña segura?</summary>
               <div class="faq-answer">
-                <p>Las contraseñas más vulnerables son: 123456, password, contraseña, qwerty, 111111, 123456789 y abc123.</p>
-                <p>Estas contraseñas son las primeras que prueban los atacantes, por lo que en todo caso recomendamos no utilizarlas.</p>
+                <p>Una contraseña segura cuenta con al menos 12 caracteres (siendo lo recomendable 16), generada de forma aleatoria y combinando mayúsculas, minúsculas, números y símbolos.</p>
               </div>
-          </details>
-
-          <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Con qué frecuencia debo cambiar mis contraseñas?</summary>
-            <div class="faq-answer">
-              <p>Solo en estos casos:</p>
+            </details>
+  
+            <details class="faq-item">
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Por qué debo utilizar contraseñas seguras?</summary>
+              <div class="faq-answer">
+                <p>Para evitar accesos no autorizados a cuentas, proteger datos personales, evitar robos de identidad, cumplir normativas de seguridad y prevenir daños.</p>
+              </div>
+            </details>
+                  
+            <details class="faq-item">
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Es seguro este generador de contraseñas?</summary>
+              <div class="faq-answer">
+                <p>Sí, es totalmente seguro y de confianza, ya que las contraseñas se generan de forma local en tu dispositivo, sin almacenarse nunca en nuestros servidores.</p>
+                <p>En cuanto a la contraseña generada aleatoriamente, cuantos más requisitos y longitud le apliques, más segura y robusta será.</p>
+              </div>
+            </details>
+  
+            <details class="faq-item">
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Es posible que hackeen mi contraseña?</summary>
+              <div class="faq-answer">
+                <p>Sí, mediante:</p>
                 <ul>
-                  <li>Tras una brecha de seguridad en un servicio que uses.</li>
-                  <li>Si sospechas de actividad inusual en tu cuenta.</li>
+                  <li>Fuerza bruta(pruebas masivas de combinaciones).</li>
+                  <li>Ataques de diccionario (uso de palabras comunes).</li>
+                  <li>Credential stuffing (reutilización de credenciales filtradas).</li>
+                  <li>Phishing (engaños para revelar claves).</li>
+                  <li>Keyloggers (malware que registra teclas pulsadas).</li>
+                  <li>Filtraciones de terceros (exposición en brechas de datos).</li>
                 </ul>
-              <p>No se recomiendan cambios periódicos (por ejemplo cada 6-12 meses), ya que gracias a ello, se generan claves débiles, con alta tendencia a la reutilización.</p>
-            </div>
-          </details>
-
-          <details class="faq-item">
-            <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Qué es la autenticación de dos factores (2FA)?</summary>
-            <div class="faq-answer">
-              <p>Es un segundo paso de verificación tras ingresar tu contraseña, lo que garantiza una mayor seguridad.</p>
-            </div>
-          </details>
-
-        </div>
-      </section>
-
-      <section id="form_">
-        <h2>¿Tienes alguna duda o sugerencia?</h2>
-        <form id="form" class="form-container" method="post" action="https://www.freecodecamp.com/email-submit">
-          <div class="form-group">
-            <label for="email">Email:</label>
-            <input id="email" name="email" type="email" placeholder="Tu email" required>
+              </div>
+            </details>
+  
+            <details class="faq-item">
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Cómo evito tener contraseñas vulnerables?</summary>
+              <div class="faq-answer">
+                <ul>
+                  <li>Utiliza un gestor de contraseñas con cifrado de extremo a extremo.</li>
+                  <li>No reutilices contraseñas (una clave única por cuenta).</li>
+                  <li>Activa la autenticación de dos factores.</li>
+                  <li>Cambia y renueva contraseñas solo tras brechas de seguridad (no periódicamente).</li>
+                </ul>
+              </div>
+            </details>
+  
+            <details class="faq-item">
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> Consejos para crear una contraseña segura</summary>
+              <div class="faq-answer">
+                <ol>
+                  <li>Utiliza 'frases de paso' (4 o más palabras aleatorias, con más de 16 caracteres en total, como por ejemplo "MesaVacíoSolImpresora").</li>
+                  <li>Añade símbolos, letras y números, aplica sustituciones impredecibles y dale complejidad (por ejemplo "Mesa!Vacío6Sol?Impresora").</li>
+                  <li>Evita sustituciones predecibles (ej. "a" por "@" o la "i" por "1"), ya que los atacantes son conscientes de ello.</li>
+                </ol>
+              </div>
+            </details>
+  
+              <details class="faq-item">
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> Riesgos de no contar con contraseñas seguras</summary>
+              <div class="faq-answer">
+                <ul>
+                  <li>Robo y suplantación de identidad.</li>
+                  <li>Pérdida de fondos en cuentas bancarias.</li>
+                  <li>Filtración de datos sensibles (fotos, documentos).</li>
+                  <li>Daño reputacional (redes sociales o emails comprometidos).</li>
+                  <li>Compromiso de contactos (ataques a tu lista de contactos).</li>
+                </ul>
+              </div>
+            </details>
+  
+            <details class="faq-item">
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Guardáis las contraseñas generadas?</summary>
+              <div class="faq-answer">
+                <p>No, en ningún momento. Las contraseñas se generan y procesan solo en tu dispositivo. Nunca llegan a nuestros servidores.</p>
+                <p>Una vez generada la contraseña, tú eres la persona responsable de guardalas en un gestor de contraseñas.</p>
+              </div>
+            </details>
+  
+            <details class="faq-item">
+               <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Cuáles son las contraseñas más vulnerables o las más utilizadas?</summary>
+                <div class="faq-answer">
+                  <p>Las contraseñas más vulnerables son: 123456, password, contraseña, qwerty, 111111, 123456789 y abc123.</p>
+                  <p>Estas contraseñas son las primeras que prueban los atacantes, por lo que en todo caso recomendamos no utilizarlas.</p>
+                </div>
+            </details>
+  
+            <details class="faq-item">
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Con qué frecuencia debo cambiar mis contraseñas?</summary>
+              <div class="faq-answer">
+                <p>Solo en estos casos:</p>
+                  <ul>
+                    <li>Tras una brecha de seguridad en un servicio que uses.</li>
+                    <li>Si sospechas de actividad inusual en tu cuenta.</li>
+                  </ul>
+                <p>No se recomiendan cambios periódicos (por ejemplo cada 6-12 meses), ya que gracias a ello, se generan claves débiles, con alta tendencia a la reutilización.</p>
+              </div>
+            </details>
+  
+            <details class="faq-item">
+              <summary class="faq-question"><i class="fas fa-shield-alt security-icon"></i> ¿Qué es la autenticación de dos factores (2FA)?</summary>
+              <div class="faq-answer">
+                <p>Es un segundo paso de verificación tras ingresar tu contraseña, lo que garantiza una mayor seguridad.</p>
+              </div>
+            </details>
+  
           </div>
-
-          <div class="form-group">
-            <label for="suggestion">Tu mensaje:</label>
-            <textarea id="suggestion" name="suggestion" placeholder="Introduce tus dudas o sugerencias"></textarea>
-          </div>
-          <input type="submit" id="submit" class="btn btn_generate" value="Enviar mensaje">
-        </form>
-      </section>
-    </main>
+        </section>
+  
+        <section id="form_">
+          <h2>¿Tienes alguna duda o sugerencia?</h2>
+          <form id="form" class="form-container" method="post" action="https://www.freecodecamp.com/email-submit">
+            <div class="form-group">
+              <label for="email">Email:</label>
+              <input id="email" name="email" type="email" placeholder="Tu email" required>
+            </div>
+  
+            <div class="form-group">
+              <label for="suggestion">Tu mensaje:</label>
+              <textarea id="suggestion" name="suggestion" placeholder="Introduce tus dudas o sugerencias"></textarea>
+            </div>
+            <input type="submit" id="submit" class="btn btn_generate" value="Enviar mensaje">
+          </form>
+        </section>
+      </main>
 
     <footer>
       <div class="footer-content">
