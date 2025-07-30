@@ -10,6 +10,7 @@ Este mini-proyecto es parte de la certificación de FreeCodeCamp 'Responsive Web
 Construida únicamente con HTML y CSS, aplicando principios de diseño responsivo, posicionamiento, y componentes semánticos.
 <br>
 <br>
+
 Demo del proyecto desplegado: [Password Generator](https://www.google.com): https://instantpasswordgenerator.vercel.app/
 
 <details>
