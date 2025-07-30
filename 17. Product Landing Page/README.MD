@@ -11,7 +11,7 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 <br>
 <br>
 
-[Demo del proyecto desplegado](https://www.google.com): https://instantpasswordgenerator.vercel.app/
+[Demo del proyecto desplegado]( https://instantpasswordgenerator.vercel.app/): https://instantpasswordgenerator.vercel.app/
 
 <details>
   <summary>📌 Nota sobre funcionalidad del proyecto</summary>
