@@ -18,5 +18,5 @@ Github: https://github.com/APoves
 <br>
 <br>
 
-Skyline día:
-![Day skyline](https://github.com/APoves/Responsive-Web-Design/blob/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline/dayskyline.jpg)
+CSS Penguin:
+![CSS Penguin](https://github.com/APoves/Responsive-Web-Design/blob/main/19.%20Learn%20CSS%20Transforms%20by%20Building%20a%20Penguin/CSS%20Penguin.jpg)
