@@ -29,6 +29,6 @@ Github: https://github.com/APoves
 <br>
 <br>
 
-Pasword Landing Page
-![Pasword Landing Page](https://github.com/APoves/Responsive-Web-Design/blob/main/17.%20Product%20Landing%20Page/password%20landing%20page.jpg)
+Personal Portfolio Webpage
+![Personal Portfolio Webpage](https://github.com/APoves/Responsive-Web-Design/blob/main/20.%20Personal%20Portfolio%20Webpage/portfolio.jpg)
 <br>
