@@ -36,7 +36,7 @@ El fin de dicha certificación, es obtener, de manera interactiva, el conocimien
 | 🎯 17 Product Landing Page 🎯 |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/17.%20Product%20Landing%20Page)| Landing Page de Producto ***Proyecto de certificación (creación propia)*** 🏅 |
 | 18 Learn CSS Animation by Building a Ferris Wheel |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/18.%20Learn%20CSS%20Animation%20by%20Building%20a%20Ferris%20Wheel)| Aprende animaciones en CSS construyendo una noria |
 | 19 Learn CSS Transforms by Building a Penguin |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/19.%20Learn%20CSS%20Transforms%20by%20Building%20a%20Penguin)| Aprende animaciones en CSS construyendo un Pingüino |
-| 20 Personal Portfolio Webpage |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/20.%20Personal%20Portfolio%20Webpage)| Portfolio personal |
+| 🎯 20 Personal Portfolio Webpage 🎯 |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/20.%20Personal%20Portfolio%20Webpage)| Portfolio personal |
 
 
 
