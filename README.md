@@ -31,11 +31,11 @@ El fin de dicha certificación, es obtener, de manera interactiva, el conocimien
 | 12 Cat Painting |[📂](https://github.com/APoves/Repo/tree/main/12%20Aprende%20CSS%20intermedio%20haciendo%20una%20pintura%20de%20gatos)| Dibujo de un gato |
 | 13  Piano Painting |[📂](https://github.com/APoves/Repo/tree/main/13%20Aprende%20dise%C3%B1o%20web%20adaptativo%20construyendo%20un%20piano)| Diseño responsivo dibujando un piano |
 | 🎯 14 Technical Documentation 🎯 |[📂]([https://github.com/APoves/Repo/tree/main/13%20Aprende%20dise%C3%B1o%20web%20adaptativo%20construyendo%20un%20piano](https://github.com/APoves/Responsive-Web-Design/tree/main/14.%20Technical%20documentation))| Página de Documentación Técnica ***Proyecto de certificación (creación propia)*** 🏅 |
-| 15 Learn CSS Variables by Building a Skyline |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline)| Aprende variables de CSS construyendo el skyline de una ciudad |
-| 16 Learn CSS Grid by Building a Magazine |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/16.%20Learn%20CSS%20Grid%20by%20Building%20a%20Magazine)| Aprende Grid con CSS construyendo una Revista |
+| 15 CSS Variables by Building a Skyline |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/15.%20Learn%20CSS%20variables%20by%20building%20a%20city%20skyline)| Aprende variables de CSS construyendo el skyline de una ciudad |
+| 16 CSS Grid by Building a Magazine |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/16.%20Learn%20CSS%20Grid%20by%20Building%20a%20Magazine)| Aprende Grid con CSS construyendo una Revista |
 | 🎯 17 Product Landing Page 🎯 |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/17.%20Product%20Landing%20Page)| Landing Page de Producto ***Proyecto de certificación (creación propia)*** 🏅 |
-| 18 Learn CSS Animation by Building a Ferris Wheel |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/18.%20Learn%20CSS%20Animation%20by%20Building%20a%20Ferris%20Wheel)| Aprende animaciones en CSS construyendo una noria |
-| 19 Learn CSS Transforms by Building a Penguin |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/19.%20Learn%20CSS%20Transforms%20by%20Building%20a%20Penguin)| Aprende animaciones en CSS construyendo un Pingüino |
+| 18 CSS Animation by Building a Ferris Wheel |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/18.%20Learn%20CSS%20Animation%20by%20Building%20a%20Ferris%20Wheel)| Aprende animaciones en CSS construyendo una noria |
+| 19 CSS Transforms by Building a Penguin |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/19.%20Learn%20CSS%20Transforms%20by%20Building%20a%20Penguin)| Aprende animaciones en CSS construyendo un Pingüino |
 | 🎯 20 Personal Portfolio Webpage 🎯 |[📂](https://github.com/APoves/Responsive-Web-Design/tree/main/20.%20Personal%20Portfolio%20Webpage)| Portfolio personal |
 
 
