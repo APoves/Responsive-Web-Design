@@ -16,6 +16,7 @@ Apesar de contar con muy poco código HTML y CSS🎨, abre boca a querer continu
 <br>
   LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
+<br>
   Github: https://github.com/APoves
 <br>
 <br>
