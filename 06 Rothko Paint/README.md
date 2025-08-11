@@ -15,12 +15,12 @@ Creaciones así, llevan a una apertura de mente en cuanto a las posibilidades de
 <br>
   LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
-<br<
+<br>
   Github: https://github.com/APoves
 <br>
 <br>
 
-  Peintura de Rothko:
+  Pintura de Rothko:
 
 ![Rothko Paint](https://github.com/APoves/Responsive-Web-Design/blob/main/06%20Rothko%20Paint/Rothko%20Paint%20CSS.png
 )
