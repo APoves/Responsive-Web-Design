@@ -16,6 +16,6 @@ Breve mini-proyecto sobre la utilización de flexbox.
 <br>
 <br>
 
-  Personal Portfolio Webpage:
+  Galería de fotos con Flexbox:
 
 ![Personal Portfolio Webpage](https://github.com/APoves/Responsive-Web-Design/blob/main/07%20CSS%20Flexbox%20Photo%20Gallery/cssflexboxphotogallery.png)
