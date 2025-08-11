@@ -1,7 +1,7 @@
 ## Learn CSS Pseudo Selectors by Building a Balance Sheet
 
 ### Proyecto 11: Pseudo selectores construyendo un balance financiero
-Mini- poyecto orientado a trabajar tipografías, selectores, pseudoselectores y hovers.
+Mini-poyecto orientado a trabajar tipografías, selectores, pseudoselectores y hovers.
 <br>
 <br>
   Portfolio Web: https://aurorapoves.vercel.app/
