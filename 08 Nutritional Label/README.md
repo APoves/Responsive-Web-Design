@@ -19,6 +19,4 @@ Diversidad de tipografías sangrías, tamaños y líneas divisorias.
 <br>
 <br>
 
-  Personal Portfolio Webpage:
-
-![Personal Portfolio Webpage](https://github.com/APoves/Responsive-Web-Design/blob/main/08%20Nutritional%20Label/Inf.%20nutricional.png)
+![Nutritional Label](https://github.com/APoves/Responsive-Web-Design/blob/main/08%20Nutritional%20Label/Inf.%20nutricional.png)
