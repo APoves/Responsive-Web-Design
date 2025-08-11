@@ -24,6 +24,6 @@ Aquí presento el segundo proyecto de certificación para la certificación de D
 <br>
 <br>
 
-  Personal Portfolio Webpage:
+Página Tributo:
 
 ![Personal Portfolio Webpage](https://github.com/APoves/Responsive-Web-Design/blob/main/10%20P%C3%A1gina%20de%20Homenaje/P%C3%A1gina%20homenaje%20Queen.png)
