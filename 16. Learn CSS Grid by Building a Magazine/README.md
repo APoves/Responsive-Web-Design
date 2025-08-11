@@ -1,11 +1,8 @@
 
 ## Learn CSS Grid by Building a Magazine
 
-### Aprende Grid con CSS construyendo una Revista
-<br>
-Proyecto 16: Aprende Grid con CSS construyendo una Revista.
-<br>
-<br>
+### Proyecto 16: Aprende Grid con CSS construyendo una Revista
+
 Mini-proyecto dedicado al aprendizaje de Grid y la disposición de elementos.
 <br>
 Manejo correcto de cuadrículas y espacios, aplicando una buena disposición y distribución de los diversos elementos.
