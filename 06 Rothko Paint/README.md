@@ -1,11 +1,10 @@
 ## Rothko-Paint
-### Proyecto 6: Rothko-Paint
-Proyecto 06 Rothko Paint 🖌️.
-<br>
+### Proyecto 6: Rothko-Paint 🖌️
+
 Mini-proyecto un tanto abstracto, emulando una pintura abstracta de Rothko.
 <br>
 <br>
-Muchos mártenes, correcta distribución y aplicación.
+Muchos márgenes, correcta distribución y aplicación.
 <br>
 Creaciones así, llevan a una apertura de mente en cuanto a las posibilidades de CSS.
 <br>
