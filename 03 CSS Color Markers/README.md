@@ -1,11 +1,5 @@
 ## Learn CSS Colors by building a Set of Colored Markers
-
-<br>
-
 ### Aprende CSS construyendo un Set de Marcadores de Color
-
-<br>
-<br>
 
 Proyecto 03 Marcadores de Colores.
 <br>
@@ -16,14 +10,13 @@ Apesar de contar con muy poco código HTML y CSS🎨, abre boca a querer continu
 <br>
 <br>
 
-LinkedIn: www.linkedin.com/in/auroramarinapoves
-<br>
-Github: https://github.com/APoves
 
+  Portfolio Web: https://aurorapoves.vercel.app/
 <br>
 <br>
-
+  LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
-
-
+  Github: https://github.com/APoves
+<br>
+<br>
 ![Colored Markers](https://github.com/APoves/Responsive-Web-Design/blob/main/03%20CSS%20Color%20Markers/CSS%20Color%20Markers.jpg)
