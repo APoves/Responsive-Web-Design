@@ -19,8 +19,6 @@ Refuerzo del correcto uso de etiquetas y buenas prácticas.
 <br>
 <br>
 
-  Quiz:
-
 ![Quiz](https://github.com/APoves/Responsive-Web-Design/blob/main/09%20Aprende%20accesibilidad%20construyendo%20un%20cuestionario/Cuestionario_a.png)
 ![Quiz](https://github.com/APoves/Responsive-Web-Design/blob/main/09%20Aprende%20accesibilidad%20construyendo%20un%20cuestionario/Cuestionario_b.png)
 
