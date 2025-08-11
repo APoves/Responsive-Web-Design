@@ -5,6 +5,7 @@ Construcción de una página de homenaje, como segundo proyecto de creación tot
 Aquí presento el segundo proyecto de certificación para la certificación de Diseño Web Responsivo de FreeCodeCamp, una página de homenaje, siendo éste el segundo proyecto íntegramente creado por mi.
 <br> Mini-proyecto creado con ciertos requisitos exigidos para la obtención de la creación.
 <br>
+
 ##Tecnologías: 
 - HTML5.
 - CSS3 (Flexbox, Grid).
