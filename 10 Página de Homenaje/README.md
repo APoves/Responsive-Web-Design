@@ -11,6 +11,7 @@ Aquí presento el segundo proyecto de certificación para la certificación de D
 - CSS3 (Flexbox, Grid).
 - Fuentes externas vía Google Fonts.
 - Media queries.
+  
 <br>
 <br>
   Portfolio Web: https://aurorapoves.vercel.app/
