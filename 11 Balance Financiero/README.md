@@ -1,19 +1,19 @@
-## Balance Financiero
+## Learn CSS Pseudo Selectors by Building a Balance Sheet
 
-### Balance Financiero
+### Proyecto 11: Pseudo selectores construyendo un balance financiero
+Mini- poyecto orientado a trabajar tipografías, selectores, pseudoselectores y hovers.
+<br>
+<br>
+  Portfolio Web: https://aurorapoves.vercel.app/
+<br>
+<br>
+  LinkedIn: www.linkedin.com/in/auroramarinapoves
+<br>
+<br>
+  Github: https://github.com/APoves
+<br>
+<br>
 
+  Balance Financiero:
 
-
-Proyecto 11: Construye un Balance Financiero 📈🗒️. 
-
-Proyecto orientado a trabajar las tipografías, los selectores, pseudoselectores y los hovers.
-
-Por supuesto, los pseudoselectores ha sido un quebradero de cabeza 💥.
-
-Otra vez vuelvo a acordarme de la importancia de los programas de edición de texto 🖊️🗒️. ¡No somos realmente conscientes de todo lo que hacen por nosotros 👀!
-
-
-
-LinkedIn: www.linkedin.com/in/auroramarinapoves
-
-Github: https://github.com/APoves
+![Balance Sheet](https://github.com/APoves/Responsive-Web-Design/blob/main/11%20Balance%20Financiero/Captura%20de%20pantalla%202025-03-12%20205311.png)
