@@ -11,7 +11,7 @@ Mini-proyecto HTML y CSS, esta vez realizando un formulario de registro.
 <br>
   LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
-<br<
+<br>
   Github: https://github.com/APoves
 <br>
 <br>
