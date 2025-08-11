@@ -11,7 +11,7 @@ Construida únicamente con HTML y CSS, aplicando principios de diseño responsiv
 <br>
 <br>
 
-Demo del proyecto: https://instantpasswordgenerator.vercel.app/
+### Para ver proyecto desplegado: https://instantpasswordgenerator.vercel.app/
 
 <details>
   <summary>📌 Nota sobre funcionalidad del proyecto</summary>
@@ -42,7 +42,6 @@ Github: https://github.com/APoves
 <br>
 <br>
 
-Pasword Landing Page
 ![Pasword Landing Page](https://github.com/APoves/Responsive-Web-Design/blob/main/17.%20Product%20Landing%20Page/password%20landing%20page.jpg)
 <br>
 
