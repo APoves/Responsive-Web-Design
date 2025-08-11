@@ -1,39 +1,27 @@
-## Página de Homenaje (Certification Proyect🎯)
-
+## 10 Tribute Page (Certification Proyect🎯)
+### Proyecto 10: Página Tributo (Certification Proyect🎯) a Queen
+Construcción de una página de homenaje, como segundo proyecto de creación totalmente propia para la certificación de Diseño Web Responsivo. 
 <br>
-
-### Página de Homenaje (Certification Proyect🎯) a Queen
-
-<br>
-<br>
-
-Proyecto 10: Construye una página de homenaje (proyecto de certificación) 🎯. 
-<br>
-<br>
-
 Aquí presento el segundo proyecto de certificación para la certificación de Diseño Web Responsivo de FreeCodeCamp, una página de homenaje, siendo éste el segundo proyecto íntegramente creado por mi.
+<br> Mini-proyecto creado con ciertos requisitos exigidos para la obtención de la creación.
 <br>
-En todo momento, la elección del tema era libre elección, donde los únicos requisitos era cumplir con unos mínimos en HTML y CSS, los cuales, para mi sorpresa, han sido muy sencillos de cumplir.
-<br>
-<br>
-Para su creación, me he apoyado en los proyectos creados anteriormente, aprovechando todos los recursos que anteriormente había ido aprendiendo, además de haber implementado media queries para dar un buen diseño web responsivo en todos los dispositivos (cosa que no había visto hasta ahora y me ha dado algún que otro quebradero de cabeza, a pesar de parecerme algo con millones de posibilidades).
-<br>
-Cada día voy un poquito más segura con HTML, aunque descubro más y más funcionalidades nuevas de CSS, cosa que me encanta y me permite experimentar.
-<br>
-<br>
-Respecto al proyecto, como no, mi página de homenaje ha ido dedicada a 🎤 Queen 🎶🥸, porque...
-¿QUIÉN NO CONOCE A QUEEN 👀? ¿Quién no ha escuchado nunca Bohemian Rhapsody, ha parodiado al señor con bigote y peluca, pasando la aspiradora 👯‍♀️, ha tarareado We Are the Champions tras sonar de fondo en una final deportiva, quién no ha cantado a plena voz I Was Born To Love You a su pareja, quién no se ha recompuesto en un mal momento con The Show Must Go On o quién no ha sabido perfectamente dar una palmada tras una persona darse dos palmadas en los muslos imitando We Will Rock You 🎸?
-<br>
-(Y si no lo has hecho, HAZLO YA).
-<br>
-Desde que leí que el tema era libre, no tuve dudas ni sobre a qué hacerle esta pequeña y (extremadamente) humilde web estática tributo a Queen, ya que desde luego, es la banda de mi vida.
+##Tecnologías: 
+- HTML5.
+- CSS3 (Flexbox, Grid).
+- Fuentes externas vía Google Fonts.
+- Media queries.
 <br>
 <br>
-No sé si de aquí a un tiempo iré mejorando la web conforme adquiera conocimientos y estoy totalmente convencida de que habrá mil cosas que mejorar, tanto en nuevas funcionalidades con CSS como con la distribución del código (y la posibilidad de hacerlo más limpio), pero estoy más que satisfecha con esta creación, especialmente teniendo en cuenta que hace 20 días no había tocado HTML ni CSS, por lo que estos pequeños proyectos para la certificación, me motivan mucho a seguir aprendiendo más y más cosas sobre este mundo del desarrollo web.
+  Portfolio Web: https://aurorapoves.vercel.app/
 <br>
 <br>
+  LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
-LinkedIn: www.linkedin.com/in/auroramarinapoves
+<br>
+  Github: https://github.com/APoves
 <br>
 <br>
-Github: https://github.com/APoves
+
+  Personal Portfolio Webpage:
+
+![Personal Portfolio Webpage](https://github.com/APoves/Responsive-Web-Design/blob/main/10%20P%C3%A1gina%20de%20Homenaje/P%C3%A1gina%20homenaje%20Queen.png)
