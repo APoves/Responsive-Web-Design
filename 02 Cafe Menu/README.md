@@ -1,13 +1,7 @@
 ## Learn HTML by building a Cat Photo App
-### Aprende CSS Básico construyendo la Carta de una Cafetería
+### Proyecto 2: Aprende CSS Básico construyendo la Carta de una Cafetería 🍰☕
 
-Proyecto 02: Aprende CSS Básico construyendo la Carta de una Cafetería 🍰☕.
-
-<br>
-En este proyecto comienzo con los primeros pasos en HTML y CSS, hasta entonces casi desconocido éste último para mi, creando la carta de una cafetería 🍩🥤.
-<br>
-Siguiendo con la sintaxis básica y elemental de HTML, me ha maravillado ver las diferentes posibilidades que ofrece CSS 🎨.
-<br>
+Continuación de primeros pasos en HTML, además de introducción a CSS.
 <br>
   Portfolio Web: https://aurorapoves.vercel.app/
 <br>
