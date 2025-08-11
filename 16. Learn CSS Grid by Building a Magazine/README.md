@@ -13,14 +13,15 @@ Manejo correcto de cuadrículas y espacios, aplicando una buena disposición y d
 Uso de media queries, las cuales permiten cambiar la disposición del diseño.
 <br>
 <br>
-LinkedIn: www.linkedin.com/in/auroramarinapoves
+  Portfolio Web: https://aurorapoves.vercel.app/
 <br>
 <br>
-Github: https://github.com/APoves
+  LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
 <br>
-
-Magazine
+  Github: https://github.com/APoves
+<br>
+<br>
 
 ![Magazine](https://github.com/APoves/Responsive-Web-Design/blob/main/16.%20Learn%20CSS%20Grid%20by%20Building%20a%20Magazine/Magazine.png)
 <br>
