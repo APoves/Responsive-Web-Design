@@ -1,16 +1,26 @@
 ## Rothko-Paint
-### Rothko-Paint
-
+### Proyecto 6: Rothko-Paint
 Proyecto 06 Rothko Paint 🖌️.
+<br>
+Mini-proyecto un tanto abstracto, emulando una pintura abstracta de Rothko.
+<br>
+<br>
+Muchos mártenes, correcta distribución y aplicación.
+<br>
+Creaciones así, llevan a una apertura de mente en cuanto a las posibilidades de CSS.
+<br>
+<br>
+  Portfolio Web: https://aurorapoves.vercel.app/
+<br>
+<br>
+  LinkedIn: www.linkedin.com/in/auroramarinapoves
+<br>
+<br<
+  Github: https://github.com/APoves
+<br>
+<br>
 
-El proyecto de hoy, simplemente, meh. Me ha dejado un poco indiferente.
+  Peintura de Rothko:
 
-Como dato, la historia del arte 🏰 🕌, es una de mis grandes pasiones e intereses 😍, y ya de por sí, nunca me ha terminado de hacer mucha gracia el arte abstracto (sin desmerecer a nadie, por supuesto). Ya conocía a Rothko🖌️, del expresionismo abstracto🎨, por lo que podía intuir qué tipo de cuadro iba a recrear en este proyecto.
-
-Me ha gustado mucho la idea de poder pensar que con un poco de HTML y mano con CSS🎨, se pueden recrear multitud de imágenes, por lo que me ha servido mucho para abrirme un poco más la mente respecto a ello. 
-
-Este proyecto me ha ayudado mucho a comprender la importancia de los márgenes, la distribución y su aplicación, por lo que todo es un suma 😁.
-
-
-Enlace a LinkedIn: www.linkedin.com/in/auroramarinapoves
-Enlace a Github: https://github.com/APoves
+![Rothko Paint](https://github.com/APoves/Responsive-Web-Design/blob/main/06%20Rothko%20Paint/Rothko%20Paint%20CSS.png
+)
