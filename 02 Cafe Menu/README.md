@@ -7,11 +7,13 @@ Proyecto 02: Aprende CSS Básico construyendo la Carta de una Cafetería 🍰☕
 En este proyecto comienzo con los primeros pasos en HTML y CSS, hasta entonces casi desconocido éste último para mi, creando la carta de una cafetería 🍩🥤.
 <br>
 Siguiendo con la sintaxis básica y elemental de HTML, me ha maravillado ver las diferentes posibilidades que ofrece CSS 🎨.
+
+  Portfolio Web: https://aurorapoves.vercel.app/
 <br>
 <br>
-LinkedIn: www.linkedin.com/in/auroramarinapoves
+  LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
-Github: https://github.com/APoves
+  Github: https://github.com/APoves
 <br>
 <br>
 
