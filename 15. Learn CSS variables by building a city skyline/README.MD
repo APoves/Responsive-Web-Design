@@ -3,7 +3,7 @@
 ### Proyecto 15: Aprende variables de CSS construyendo el skyline de una ciudad
 Mini-proyecto dedicado al aprendizaje y manejo de las variables en CSS.
 <br>
-Manejo de multitud de div, clases en HTMLm además de variables en CSS para aplicar colores y formas, todo responsive.
+Manejo de multitud de div, clases en HTML además de variables en CSS para aplicar colores y formas, todo responsive.
 <br>
 Uso de media queries, las cuales permiten cambiar los colores del diseño.
 <br>
