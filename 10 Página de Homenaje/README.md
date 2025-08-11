@@ -6,7 +6,7 @@ Aquí presento el segundo proyecto de certificación para la certificación de D
 <br> Mini-proyecto creado con ciertos requisitos exigidos para la obtención de la creación.
 <br>
 
-##Tecnologías: 
+## Tecnologías: 
 - HTML5.
 - CSS3 (Flexbox, Grid).
 - Fuentes externas vía Google Fonts.
