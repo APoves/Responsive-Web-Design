@@ -15,6 +15,4 @@ Mini proyecto de precisión milimétrica para la creación con CSS de un piano.
 <br>
 <br>
 
-  Personal Portfolio Webpage:
-
 ![Piano](https://github.com/APoves/Responsive-Web-Design/blob/main/13%20Aprende%20dise%C3%B1o%20web%20adaptativo%20construyendo%20un%20piano/piano.png)
