@@ -16,7 +16,7 @@ En este proyecto, se exige cumplir con varios puntos que propone FreeCodeCamp (a
 <br>
   LinkedIn: www.linkedin.com/in/auroramarinapoves
 <br>
-<br<
+<br>
   Github: https://github.com/APoves
 <br>
 <br>
