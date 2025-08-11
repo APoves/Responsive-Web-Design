@@ -1,23 +1,21 @@
-## Aprende CSS intermedio haciendo una pintura de gatos
+## Learn Intermediate CSS by Building a Cat Painting
+### Proyecto 12: Aprende CSS intermedio construyendo una pintura de gatos
 
+Dibujo de un gato realizado con CSS.
+<br>
+Gran precisión y grandes posibilidades con CSS.
 
-### Aprende CSS intermedio haciendo una pintura de gatos
+<br>
+<br>
+  Portfolio Web: https://aurorapoves.vercel.app/
+<br>
+<br>
+  LinkedIn: www.linkedin.com/in/auroramarinapoves
+<br>
+<br>
+  Github: https://github.com/APoves
+<br>
+<br>
 
+![Cat Paint](https://github.com/APoves/Responsive-Web-Design/blob/main/12%20Aprende%20CSS%20intermedio%20haciendo%20una%20pintura%20de%20gatos/gato.png)
 
-
-Proyecto 12: Aprende CSS intermedio haciendo una pintura de gatos 🐈.
-
-
-
-Dibujo de un gato realizado con CSS 🐈.
-
-Toda una proeza el dibujo, ya que se requiere gran precisión. 
-
-Me quito el sombrero con CSS y la paciencia y disciplina que debe requerir dominarlo.
-
-
-
-
-LinkedIn: www.linkedin.com/in/auroramarinapoves
-
-Github: https://github.com/APoves
