@@ -1,14 +1,11 @@
 ## Survey Form (Certification Proyect 1/5🎯)
-### Encuesta (Proyecto de certificación 1/5. Creación propia 🎯)
-Proyecto 5: Creación de una Encuesta (Proyecto de certificación 🎯).
-<br>
-<br>
+### Proyecto 5: Encuesta (Proyecto de certificación 1/5. Creación propia 🎯)
 Primer proyecto necesario para la certificación y primer proyecto creado, integramente por mi. 
 <br>
 En este proyecto, se exige cumplir con varios puntos que propone FreeCodeCamp (añadir labels, un form, varios inputs, un textarea...📈).
 <br>
 <br>
-Éste proyecto de certificación, únicamente exigía HTML, por lo que todo el CSS e imagen de fondo, es un añadido extra por mi parte.
+Éste proyecto de certificación, únicamente exigía HTML, por lo que todo el CSS e imagen de fondo, es añadido extra por mi parte.
 <br>
 <br>
   Portfolio Web: https://aurorapoves.vercel.app/
