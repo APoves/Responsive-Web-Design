@@ -1,9 +1,5 @@
 ## Learn HTML by building a Cat Photo App
-<br>
-
 ### Aprende CSS Básico construyendo la Carta de una Cafetería
-<br>
-<br>
 
 Proyecto 02: Aprende CSS Básico construyendo la Carta de una Cafetería 🍰☕.
 
