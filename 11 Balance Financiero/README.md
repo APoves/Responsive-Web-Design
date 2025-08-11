@@ -14,6 +14,4 @@ Mini-poyecto orientado a trabajar tipografías, selectores, pseudoselectores y h
 <br>
 <br>
 
-  Balance Financiero:
-
 ![Balance Sheet](https://github.com/APoves/Responsive-Web-Design/blob/main/11%20Balance%20Financiero/Captura%20de%20pantalla%202025-03-12%20205311.png)
