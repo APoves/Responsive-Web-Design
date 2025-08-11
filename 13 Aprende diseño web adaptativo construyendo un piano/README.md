@@ -1,20 +1,20 @@
-## Aprende diseño web adaptativo construyendo un piano 🎹.
+## Learn Responsive Web Design by Building a Piano.
 
 
-### Aprende diseño web adaptativo construyendo un piano.
+### Proyecto 14: Aprende diseño web responsivo construyendo un piano 🎹.
+Mini proyecto de precisión milimétrica para la creación con CSS de un piano.
+<br>
+<br>
+  Portfolio Web: https://aurorapoves.vercel.app/
+<br>
+<br>
+  LinkedIn: www.linkedin.com/in/auroramarinapoves
+<br>
+<br>
+  Github: https://github.com/APoves
+<br>
+<br>
 
+  Personal Portfolio Webpage:
 
-
-Proyecto 13: Aprende diseño web adaptativo construyendo un piano 🎹.
-
-
-
-Mini proyecto de creación con CSS de un piano.
-
-Continuamos con la precisión milimétrica a la hora de hacer dibujos 🚀.
-
-
-
-LinkedIn: www.linkedin.com/in/auroramarinapoves
-
-Github: https://github.com/APoves
+![Piano](https://github.com/APoves/Responsive-Web-Design/blob/main/13%20Aprende%20dise%C3%B1o%20web%20adaptativo%20construyendo%20un%20piano/piano.png)
